@@ -1,0 +1,10 @@
+owner = CLE
+controller = CLE
+add_core = CLE
+add_core = ENG
+add_core = ENL
+trade_goods = coal
+
+life_rating = 35
+
+1861.1.1 = { railroad = 3 }

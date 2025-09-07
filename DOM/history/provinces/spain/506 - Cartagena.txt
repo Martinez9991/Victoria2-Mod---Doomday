@@ -1,0 +1,11 @@
+owner = SPR
+controller = SPR
+add_core = SPR
+add_core = SPA
+trade_goods = iron
+life_rating = 35
+naval_base = 1
+1861.1.1 = { 
+	railroad = 3 
+	naval_base = 3
+}

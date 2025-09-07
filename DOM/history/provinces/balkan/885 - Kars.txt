@@ -1,0 +1,5 @@
+owner = TRB
+controller = TRB
+add_core = TRB
+trade_goods = iron
+life_rating = 35

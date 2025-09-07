@@ -1,0 +1,6 @@
+owner = NBR
+controller = NBR
+add_core = NBR
+add_core = SAF
+trade_goods = fruit
+life_rating = 35

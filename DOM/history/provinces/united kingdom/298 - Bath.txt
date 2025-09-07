@@ -1,0 +1,9 @@
+owner = CEL
+controller = CEL
+add_core = CEL
+add_core = SEN
+add_core = ENG
+add_core = ENL
+trade_goods = grain
+life_rating = 35
+1861.1.1 = { railroad = 3 }

@@ -1,0 +1,7 @@
+owner = SPR
+controller = SPR
+add_core = SPR
+add_core = SPA
+trade_goods = fish
+life_rating = 35
+

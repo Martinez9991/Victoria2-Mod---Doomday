@@ -1,0 +1,7 @@
+owner = POT
+controller = POT
+add_core = POT
+add_core = FRA
+trade_goods = fruit
+life_rating = 30
+1861.1.1 = { railroad = 3 }

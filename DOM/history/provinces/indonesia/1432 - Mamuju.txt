@@ -1,0 +1,6 @@
+owner = IDA
+controller = IDA
+add_core = IDA
+
+trade_goods = grain
+life_rating = 30

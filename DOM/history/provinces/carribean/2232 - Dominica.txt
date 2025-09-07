@@ -1,0 +1,5 @@
+owner = ECF
+controller = ECF
+add_core = ECF
+trade_goods = cotton
+life_rating = 35

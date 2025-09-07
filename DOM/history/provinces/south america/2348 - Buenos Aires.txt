@@ -1,0 +1,5 @@
+owner = UAR
+controller = UAR
+add_core = UARadd_core = ARG
+trade_goods = cattle
+life_rating = 351861.1.1 = { railroad = 1 }

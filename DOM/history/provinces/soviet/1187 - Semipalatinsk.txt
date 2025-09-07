@@ -1,0 +1,5 @@
+owner = SOV
+controller = SOV
+add_core = SOV
+trade_goods = timber
+life_rating = 35

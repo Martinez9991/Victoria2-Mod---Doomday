@@ -1,0 +1,6 @@
+owner = UAR
+controller = UAR
+add_core = UAR
+add_core = ARG
+trade_goods = wool
+life_rating = 25

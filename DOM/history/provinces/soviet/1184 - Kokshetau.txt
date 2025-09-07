@@ -1,0 +1,5 @@
+owner = SOV
+controller = SOV
+add_core = SOV
+trade_goods = iron
+life_rating = 35

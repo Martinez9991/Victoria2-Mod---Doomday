@@ -1,0 +1,5 @@
+owner = SIG
+controller = SIG
+add_core = SIG
+trade_goods = tropical_wood
+life_rating = 30

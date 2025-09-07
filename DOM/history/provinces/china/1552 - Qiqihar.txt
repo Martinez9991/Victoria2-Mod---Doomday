@@ -1,0 +1,7 @@
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = MCK
+add_core = CHI
+trade_goods = coal
+life_rating = 32

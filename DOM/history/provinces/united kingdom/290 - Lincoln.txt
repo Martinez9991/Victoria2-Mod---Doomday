@@ -1,0 +1,9 @@
+owner = EAN
+controller = EAN
+add_core = EAN
+add_core = ENG
+add_core = ENL
+trade_goods = iron
+naval_base = 1
+life_rating = 35
+1861.1.1 = { railroad = 3 }

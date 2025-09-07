@@ -1,0 +1,6 @@
+owner = RTA
+controller = RTA
+add_core = RTA
+trade_goods = fish
+life_rating = 35
+naval_base = 1

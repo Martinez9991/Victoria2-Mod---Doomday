@@ -1,0 +1,6 @@
+owner = CEL
+controller = CEL
+add_core = CEL
+add_core = IRE
+trade_goods = fish
+life_rating = 35

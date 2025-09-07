@@ -1,0 +1,11 @@
+owner = YUK
+controller = YUK
+add_core = YUK
+add_core = CAN
+trade_goods = fish
+life_rating = 15
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
+	colonial = 2
+}

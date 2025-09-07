@@ -1,0 +1,6 @@
+owner = IDA
+controller = IDA
+add_core = IDA
+add_core = BAL
+trade_goods = timber
+life_rating = 30

@@ -1,0 +1,11 @@
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = RUS
+trade_goods = coal
+life_rating = 32
+1861.1.1 = {
+	
+	
+	colonial = 2
+}

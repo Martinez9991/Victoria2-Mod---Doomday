@@ -1,0 +1,5 @@
+owner = GSA
+controller = GSA
+add_core = GSA
+trade_goods = wool
+life_rating = 15

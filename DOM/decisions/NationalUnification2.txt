@@ -1,0 +1,222 @@
+political_decisions = {
+	form_uk = {
+		potential = {
+			is_culture_group = british
+
+			NOT = {
+				exists = ENG
+				tag = CEL
+			}		
+		}
+
+		allow = {
+			is_greater_power = yes			
+			prestige = 100
+			war = no
+			ENG = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+
+		effect = {				
+			prestige = 20
+			change_tag = ENG				
+			any_country = {				
+				limit = {					
+					NOT = { 
+						is_greater_power = yes
+					 }
+					is_culture_group = british
+					in_sphere = THIS	
+				}
+				country_event = 11101			
+			}		
+		}
+		ai_will_do = {					
+			factor = 1
+		}
+	}
+	
+	form_france = {
+		potential = {
+			is_culture_group = french
+
+			NOT = {
+				exists = FRA
+			}		
+		}
+
+		allow = {
+			is_greater_power = yes			
+			prestige = 100
+			war = no
+			FRA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+
+		effect = {				
+			prestige = 20
+			change_tag = FRA				
+			any_country = {				
+				limit = {					
+					NOT = { 
+						is_greater_power = yes
+					 }
+					is_culture_group = french
+					in_sphere = THIS	
+				}
+				country_event = 11101			
+			}		
+		}
+		ai_will_do = {					
+			factor = 1
+		}
+	}
+	
+	form_ukraine = {
+		potential = {
+			primary_culture = ukrainian
+
+			NOT = {
+				exists = UKR
+			}		
+		}
+
+		allow = {
+			is_greater_power = yes			
+			prestige = 100
+			war = no
+			UKR = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+
+		effect = {				
+			prestige = 20
+			change_tag = UKR				
+			any_country = {				
+				limit = {					
+					NOT = { 
+						is_greater_power = yes
+					 }
+					primary_culture = ukrainian
+					in_sphere = THIS	
+				}
+				country_event = 11101			
+			}		
+		}
+		ai_will_do = {					
+			factor = 1
+		}
+	}
+
+	form_spain = {
+		potential = {
+			primary_culture = spanish
+
+			NOT = {
+				exists = SPA
+			}		
+		}
+
+		allow = {
+			is_greater_power = yes			
+			prestige = 100
+			war = no
+			SPA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+
+		effect = {				
+			prestige = 20
+			change_tag = SPA				
+			any_country = {				
+				limit = {					
+					NOT = { 
+						is_greater_power = yes
+					 }
+					primary_culture = spanish
+					in_sphere = THIS	
+				}
+				country_event = 11101			
+			}		
+		}
+		ai_will_do = {					
+			factor = 1
+		}
+	}
+
+	form_poland = {
+		potential = {
+			primary_culture = polish
+
+			NOT = {
+				exists = POL
+			}		
+		}
+
+		allow = {
+			is_greater_power = yes			
+			prestige = 100
+			war = no
+			POL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+
+		effect = {				
+			prestige = 20
+			change_tag = POL				
+			any_country = {				
+				limit = {					
+					NOT = { 
+						is_greater_power = yes
+					 }
+					primary_culture = polish
+					in_sphere = THIS	
+				}
+				country_event = 11101			
+			}		
+		}
+		ai_will_do = {					
+			factor = 1
+		}
+	}
+}						

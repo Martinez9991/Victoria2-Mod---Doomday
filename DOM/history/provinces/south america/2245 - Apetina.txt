@@ -1,0 +1,5 @@
+owner = GUC
+controller = GUC
+add_core = GUC
+trade_goods = timber
+life_rating = 30

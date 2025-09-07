@@ -1,0 +1,6 @@
+owner = BRU
+controller = BRU
+add_core = BRU
+add_core = IDA
+trade_goods = sulphur
+life_rating = 15

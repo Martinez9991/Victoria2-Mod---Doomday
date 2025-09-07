@@ -1,0 +1,6 @@
+owner = COR
+controller = COR
+add_core = COR
+add_core = FRA
+trade_goods = fish
+life_rating = 35

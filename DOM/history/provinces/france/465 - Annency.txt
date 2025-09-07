@@ -1,0 +1,13 @@
+owner = APH
+controller = APH
+add_core = APH
+add_core = FRA
+trade_goods = coal
+life_rating = 30
+1861.1.1 = {
+	
+	
+	
+	
+	
+}
