@@ -1,6 +1,0 @@
-owner = ALK
-controller = ALK
-add_core = ALK
-trade_goods = fish
-life_rating = 20
-

@@ -1,6 +1,0 @@
-owner = RTA
-controller = RTA
-add_core = RTA
-trade_goods = fruit
-life_rating = 35
-terrain = plains

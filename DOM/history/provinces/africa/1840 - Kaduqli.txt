@@ -1,5 +1,0 @@
-
-add_core = DAR
-add_core = SUD
-trade_goods = wool
-life_rating = 30

@@ -1,6 +1,0 @@
-owner = MAY
-controller = MAY
-add_core = MAY
-trade_goods = fish
-life_rating = 30
-

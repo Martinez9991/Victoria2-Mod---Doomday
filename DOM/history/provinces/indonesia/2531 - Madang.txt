@@ -1,5 +1,0 @@
-owner = PAG
-controller = PAG
-add_core = PAG
-trade_goods = grain
-life_rating = 15

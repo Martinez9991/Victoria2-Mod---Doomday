@@ -1,5 +1,0 @@
-owner = KUR
-controller = KUR
-add_core = KUR
-trade_goods = wool
-life_rating = 35

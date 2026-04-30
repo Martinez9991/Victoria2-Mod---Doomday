@@ -1,5 +1,0 @@
-owner = RTA
-controller = RTA
-add_core = RTA
-trade_goods = tobacco
-life_rating = 35

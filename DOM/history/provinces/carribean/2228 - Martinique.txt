@@ -1,8 +1,0 @@
-owner = RTA
-controller = RTA
-add_core = RTA
-trade_goods = cotton
-life_rating = 35
-1861.1.1 = {
-	naval_base = 1
-}

@@ -1,6 +1,0 @@
-owner = APH
-controller = APH
-add_core = APH
-add_core = AUS
-trade_goods = iron
-life_rating = 35
