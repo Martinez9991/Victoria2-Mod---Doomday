@@ -1,0 +1,6 @@
+owner = APH
+controller = APH
+add_core = APH
+add_core = SWI
+trade_goods = cattle
+life_rating = 40

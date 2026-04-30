@@ -1,0 +1,6 @@
+owner = GAC
+controller = GAC
+add_core = GAC
+add_core = UKR
+trade_goods = coal
+life_rating = 35

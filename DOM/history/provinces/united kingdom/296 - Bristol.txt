@@ -1,0 +1,20 @@
+owner = CEL
+controller = CEL
+add_core = CEL
+add_core = SEN
+add_core = ENG
+add_core = ENL
+trade_goods = iron
+life_rating = 35
+
+state_building = {
+	level = 1
+	building = luxury_clothes_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
+}
+1861.1.1 = { railroad = 3 }

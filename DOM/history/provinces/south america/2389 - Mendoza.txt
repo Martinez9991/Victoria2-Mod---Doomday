@@ -1,0 +1,3 @@
+owner = UARcontroller = UARadd_core = UARadd_core = ARG
+trade_goods = fruit
+life_rating = 35

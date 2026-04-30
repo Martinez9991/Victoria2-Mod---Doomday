@@ -1,0 +1,6 @@
+owner = POE
+controller = POE
+add_core = POE
+add_core = UKR
+trade_goods = grain
+life_rating = 35

@@ -1,0 +1,7 @@
+owner = WAT
+controller = WAT
+add_core = WAT
+add_core = SAF
+trade_goods = cattle
+life_rating = 15
+

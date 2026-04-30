@@ -1,0 +1,37 @@
+political_decisions = {
+	greater_portugal = {
+		potential = {
+			OR = {
+				tag = POR
+			}
+			owns = 474
+			owns = 476
+			NOT = {
+				has_global_flag = portugal_has_annxed_galiza
+			}
+		}
+		
+		allow = {
+			prestige = 10
+		}
+		
+		effect = {
+			any_owned = {				
+				limit = {			
+					is_core = GAL		
+					NOT = { is_core = POR }	
+				}
+				add_core = POR	
+			}
+			any_pop = {				
+				limit = { culture = spanish }	
+				militancy = 2			
+				consciousness = 1.5		
+			}
+			prestige = 5
+			set_global_flag = portugal_has_annxed_galiza
+		}
+	}
+}							
+
+

@@ -1,0 +1,19 @@
+NER_ADJ;Roman;Roman;Roman;;;;;;;;;;;x
+NER;New Rome;New Rome;New Rome;;;;;;;;;;;x
+NER_proletarian_dictatorship;Commune of New Rome;Commune of New Rome;Commune of New Rome;;;;;;;;;;;x
+NER_presidential_dictatorship;New Rome;New Rome;New Rome;;;;;;;;;;;x
+NER_bourgeois_dictatorship;New Rome;New Rome;New Rome;;;;;;;;;;;x
+NER_fascist_dictatorship;New Rome;New Rome;New Rome;;;;;;;;;;;x
+NER_absolute_monarchy;New Rome;New Rome;New Rome;;;;;;;;;;;x
+NER_prussian_constitutionalism;New Rome;New Rome;New Rome;;;;;;;;;;;x
+NER_hms_government;New Rome;New Rome;New Rome;;;;;;;;;;;x
+NER_democracy;New Rome;New Rome;New Rome;;;;;;;;;;;x
+NER_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x
+NER_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x
+NER_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x
+NER_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x
+NER_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x
+NER_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x
+NER_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x
+NER_communist_86;Communists;Communists;Communists;;;;;;;;;;;x
+NER_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x

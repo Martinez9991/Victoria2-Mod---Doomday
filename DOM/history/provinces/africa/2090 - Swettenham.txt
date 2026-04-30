@@ -1,0 +1,6 @@
+owner = RZA
+controller = RZA
+add_core = RZA
+add_core = SAF
+trade_goods = wool
+life_rating = 35

@@ -1,0 +1,5 @@
+owner = IDA
+controller = IDA
+add_core = IDA
+trade_goods = fish
+life_rating = 30

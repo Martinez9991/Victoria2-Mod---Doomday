@@ -1,0 +1,10 @@
+owner = SOV
+controller = SOV
+add_core = SOV
+add_core = XIN
+add_core = CHI
+trade_goods = grain
+life_rating = 32
+
+
+

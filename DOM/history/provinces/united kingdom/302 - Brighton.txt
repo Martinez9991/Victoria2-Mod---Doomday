@@ -1,0 +1,9 @@
+owner = SEN
+controller = SEN
+add_core = SEN
+add_core = ENG
+add_core = ENL
+trade_goods = fish
+life_rating = 35
+fort = 1
+1861.1.1 = { railroad = 3 }

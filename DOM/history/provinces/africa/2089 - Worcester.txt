@@ -1,0 +1,6 @@
+owner = RZA
+controller = RZA
+add_core = RZA
+add_core = SAF
+trade_goods = fruit
+life_rating = 35

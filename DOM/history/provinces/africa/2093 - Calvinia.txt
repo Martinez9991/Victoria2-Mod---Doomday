@@ -1,0 +1,6 @@
+owner = VOL
+controller = VOL
+add_core = VOL
+add_core = SAF
+trade_goods = grain
+life_rating = 35

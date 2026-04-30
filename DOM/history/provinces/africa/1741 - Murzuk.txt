@@ -1,0 +1,9 @@
+owner = TAQ
+controller = TAQ
+add_core = TAQ
+trade_goods = fruit
+life_rating = 25
+1861.1.1 = {
+
+	colonial = 0
+}

@@ -1,0 +1,6 @@
+owner = ECF
+controller = ECF
+add_core = ECF
+trade_goods = fruit
+life_rating = 30
+

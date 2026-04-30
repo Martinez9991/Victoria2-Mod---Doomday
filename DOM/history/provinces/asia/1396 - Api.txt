@@ -1,0 +1,7 @@
+owner = PHI
+controller = PHI
+add_core = PHI
+add_core = BRU
+add_core = MAY
+trade_goods = grain
+life_rating = 15

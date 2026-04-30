@@ -1,0 +1,5 @@
+owner = NAT
+controller = NAT
+add_core = NAT
+trade_goods = tobacco
+life_rating = 35

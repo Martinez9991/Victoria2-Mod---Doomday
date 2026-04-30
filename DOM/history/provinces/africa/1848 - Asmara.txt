@@ -1,0 +1,5 @@
+owner = ERI
+controller = ERI
+add_core = ERI
+trade_goods = fruit
+life_rating = 35

@@ -1,0 +1,8 @@
+owner = SPR
+controller = SPR
+add_core = SPR
+add_core = SPA
+trade_goods = fruit
+life_rating = 35
+naval_base = 1
+

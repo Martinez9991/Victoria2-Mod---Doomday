@@ -1,0 +1,11 @@
+owner = LEB
+controller = LEB
+add_core = LEB
+trade_goods = grain
+life_rating = 35
+
+1861.1.1 = {
+	 
+	
+	colonial = 0
+}

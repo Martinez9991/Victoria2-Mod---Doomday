@@ -1,0 +1,10 @@
+owner = SOV
+controller = SOV
+add_core = SOV
+trade_goods = fish
+life_rating = 25
+1861.1.1 = {
+	
+	
+	colonial = 2
+}

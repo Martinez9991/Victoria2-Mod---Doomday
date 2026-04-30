@@ -1,0 +1,6 @@
+owner = ALK
+controller = ALK
+add_core = ALK
+trade_goods = timber
+life_rating = 20
+

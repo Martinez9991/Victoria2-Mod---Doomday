@@ -1,0 +1,7 @@
+owner = VIC
+controller = VIC
+add_core = VIC
+add_core = CAN
+add_core = COL
+trade_goods = fish
+life_rating = 35

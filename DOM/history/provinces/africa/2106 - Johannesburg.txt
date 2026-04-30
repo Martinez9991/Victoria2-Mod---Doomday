@@ -1,0 +1,6 @@
+owner = AZA
+controller = AZA
+add_core = AZA
+add_core = SAF
+trade_goods = wool
+life_rating = 35

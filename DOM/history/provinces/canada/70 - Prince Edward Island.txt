@@ -1,0 +1,6 @@
+owner = NBR
+controller = NBR
+add_core = NBR
+add_core = CAN
+trade_goods = fish
+life_rating = 35
