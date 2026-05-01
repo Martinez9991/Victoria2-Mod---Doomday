@@ -835,6 +835,500 @@ MOZ_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;
 MOZ_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
 MOZ_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
 MOZ;Mozambique;Mozambique;Mozambique;;;;;;;;;;;x;
+NAT_absolute_monarchy;Netherlands Antilles;Netherlands Antilles;Netherlands Antilles;;;;;;;;;;;x;
+NAT_ADJ;Dutch;Dutch;Dutch;;;;;;;;;;;x;
+NAT_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+NAT_bourgeois_dictatorship;Netherlands Antilles;Netherlands Antilles;Netherlands Antilles;;;;;;;;;;;x;
+NAT_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+NAT_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+NAT_democracy;Netherlands Antilles;Netherlands Antilles;Netherlands Antilles;;;;;;;;;;;x;
+NAT_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+NAT_fascist_dictatorship;Netherlands Antilles;Netherlands Antilles;Netherlands Antilles;;;;;;;;;;;x;
+NAT_hms_government;Netherlands Antilles;Netherlands Antilles;Netherlands Antilles;;;;;;;;;;;x;
+NAT_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+NAT_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+NAT_presidential_dictatorship;Netherlands Antilles;Netherlands Antilles;Netherlands Antilles;;;;;;;;;;;x;
+NAT_proletarian_dictatorship;Netherlands Antilles;Netherlands Antilles;Netherlands Antilles;;;;;;;;;;;x;
+NAT_prussian_constitutionalism;Netherlands Antilles;Netherlands Antilles;Netherlands Antilles;;;;;;;;;;;x;
+NAT_reactionary_82;Nationalist Party;Nationalist Party;Nationalist Party;;;;;;;;;;;x;
+NAT_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+NAT_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+NAT;Netherlands Antilles;Netherlands Antilles;Netherlands Antilles;;;;;;;;;;;x;
+NBR_absolute_monarchy;Third British Empire;Third British Empire;Third British Empire;;;;;;;;;;;x;
+NBR_ADJ;New British;New British;New British;;;;;;;;;;;x;
+NBR_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+NBR_bourgeois_dictatorship;New British Republic;New British Republic;New British Republic;;;;;;;;;;;x;
+NBR_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+NBR_conservative_97;Conservative Party;Conservative Party;Conservative Party;;;;;;;;;;;x;
+NBR_democracy;New Britain;New Britain;New Britain;;;;;;;;;;;x;
+NBR_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+NBR_fascist_dictatorship;New Blighty;New Blighty;New Blighty;;;;;;;;;;;x;
+NBR_hms_government;New Britain;New Britain;New Britain;;;;;;;;;;;x;
+NBR_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+NBR_liberal_89;British Imperial Party;British Imperial Party;British Imperial Party;;;;;;;;;;;x;
+NBR_presidential_dictatorship;New British Republic;New British Republic;New British Republic;;;;;;;;;;;x;
+NBR_proletarian_dictatorship;Socialist Republic of New Britain;Socialist Republic of New Britain;Socialist Republic of New Britain;;;;;;;;;;;x;
+NBR_prussian_constitutionalism;New Britain;New Britain;New Britain;;;;;;;;;;;x;
+NBR_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+NBR_socialist_87;Labour Party;Labour Party;Labour Party;;;;;;;;;;;x;
+NBR_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+NBR;New Britain;New Britain;New Britain;;;;;;;;;;;x;
+NER_absolute_monarchy;New Rome;New Rome;New Rome;;;;;;;;;;;x;
+NER_ADJ;Roman;Roman;Roman;;;;;;;;;;;x;
+NER_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+NER_bourgeois_dictatorship;New Rome;New Rome;New Rome;;;;;;;;;;;x;
+NER_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+NER_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+NER_democracy;Commune of New Rome;Commune of New Rome;Commune of New Rome;;;;;;;;;;;x;
+NER_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+NER_fascist_dictatorship;New Rome;New Rome;New Rome;;;;;;;;;;;x;
+NER_hms_government;New Rome;New Rome;New Rome;;;;;;;;;;;x;
+NER_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+NER_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+NER_presidential_dictatorship;New Rome;New Rome;New Rome;;;;;;;;;;;x;
+NER_proletarian_dictatorship;Commune of New Rome;Commune of New Rome;Commune of New Rome;;;;;;;;;;;x;
+NER_prussian_constitutionalism;New Rome;New Rome;New Rome;;;;;;;;;;;x;
+NER_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+NER_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+NER_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+NER;New Rome;New Rome;New Rome;;;;;;;;;;;x;
+NGE_absolute_monarchy;Kingdom of North Germany;Kingdom of North Germany;Kingdom of North Germany;;;;;;;;;;;x
+NGE_ADJ;North German;North German;North German;;;;;;;;;;;x
+NGE_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x
+NGE_bourgeois_dictatorship;Republic of North Germany;Republic of North Germany;Republic of North Germany;;;;;;;;;;;x
+NGE_communist_86;Communists;Communists;Communists;;;;;;;;;;;x
+NGE_conservative_82;CDU;CDU;CDU;;;;;;;;;;;x
+NGE_democracy;Republic of North Germany;Republic of North Germany;Republic of North Germany;;;;;;;;;;;x
+NGE_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x
+NGE_fascist_dictatorship;Republic of North Germany;Republic of North Germany;Republic of North Germany;;;;;;;;;;;x
+NGE_hms_government;Kingdom of North Germany;Kingdom of North Germany;Kingdom of North Germany;;;;;;;;;;;x
+NGE_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x
+NGE_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x
+NGE_presidential_dictatorship;Republic of North Germany;Republic of North Germany;Republic of North Germany;;;;;;;;;;;x
+NGE_proletarian_dictatorship;NorthGerman Socialist Republic;NorthGerman Socialist Republic;NorthGerman Socialist Republic;;;;;;;;;;;x
+NGE_prussian_constitutionalism;Kingdom of North Germany;Kingdom of North Germany;Kingdom of North Germany;;;;;;;;;;;x
+NGE_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x
+NGE_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x
+NGE_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x
+NGE;North Germany;North Germany;North Germany;;;;;;;;;;;x
+NOT_absolute_monarchy;Duchy of Northeim;Duchy of Northeim;Duchy of Northeim;;;;;;;;;;;x;
+NOT_ADJ;Northeim;Northeim;Northeim;;;;;;;;;;;x;
+NOT_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+NOT_bourgeois_dictatorship;Rheinland Republic;Rheinland Republic;Rheinland Republic;;;;;;;;;;;x;
+NOT_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+NOT_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+NOT_democracy;Northeim Republic;Northeim Republic;Northeim Republic;;;;;;;;;;;x;
+NOT_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+NOT_fascist_dictatorship;Northeim State;Northeim State;Northeim State;;;;;;;;;;;x;
+NOT_hms_government;Duchy of Northeim;Duchy of Northeim;Duchy of Northeim;;;;;;;;;;;x;
+NOT_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+NOT_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+NOT_presidential_dictatorship;Northeim;Northeim;Northeim;;;;;;;;;;;x;
+NOT_proletarian_dictatorship;Comune of Northeim;Comune of Northeim;Comune of Northeim;;;;;;;;;;;x;
+NOT_prussian_constitutionalism;Duchy of Northeim;Duchy of Northeim;Duchy of Northeim;;;;;;;;;;;x;
+NOT_reactionary_82;Nationalist Party;Nationalist Party;Nationalist Party;;;;;;;;;;;x;
+NOT_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+NOT_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+NOT;Northeim;Northeim;Northeim;;;;;;;;;;;x;
+NOV_absolute_monarchy;Novgorod;Novgorod;Novgorod;;;;;;;;;;;x;
+NOV_ADJ;Novgorodin;Novgorodin;Novgorodin;;;;;;;;;;;x;
+NOV_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+NOV_bourgeois_dictatorship;Republic of Novgorod;Republic of Novgorod;Republic of Novgorod;;;;;;;;;;;x;
+NOV_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+NOV_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+NOV_democracy;Novgorod;Novgorod;Novgorod;;;;;;;;;;;x;
+NOV_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+NOV_fascist_dictatorship;State of Novgorod;State of Novgorod;State of Novgorod;;;;;;;;;;;x;
+NOV_hms_government;Novgorod;Novgorod;Novgorod;;;;;;;;;;;x;
+NOV_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+NOV_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+NOV_presidential_dictatorship;Republic of Novgorod;Republic of Novgorod;Republic of Novgorod;;;;;;;;;;;x;
+NOV_proletarian_dictatorship;Soviet Republic of Novgorod;Soviet Republic of Novgorod;Soviet Republic of Novgorod;;;;;;;;;;;x;
+NOV_prussian_constitutionalism;Novgorod;Novgorod;Novgorod;;;;;;;;;;;x;
+NOV_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+NOV_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+NOV_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+NOV;Novgorod;Novgorod;Novgorod;;;;;;;;;;;x;
+NTH_absolute_monarchy;Northumbria;Northumbria;Northumbria;;;;;;;;;;;x
+NTH_ADJ;Northumbrian;Northumbrian;Northumbrian;;;;;;;;;;;x
+NTH_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x
+NTH_bourgeois_dictatorship;Republic of Northumbria;Republic of Northumbria;Republic of Northumbria;;;;;;;;;;;x
+NTH_communist_86;Communists;Communists;Communists;;;;;;;;;;;x
+NTH_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x
+NTH_democracy;Northumbria;Northumbria;Northumbria;;;;;;;;;;;x
+NTH_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x
+NTH_fascist_dictatorship;State of Northumbria;State of Northumbria;State of Northumbria;;;;;;;;;;;x
+NTH_hms_government;Northumbria;Northumbria;Northumbria;;;;;;;;;;;x
+NTH_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x
+NTH_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x
+NTH_presidential_dictatorship;Republic of Northumbria;Republic of Northumbria;Republic of Northumbria;;;;;;;;;;;x
+NTH_proletarian_dictatorship;People�s Republic of Northumbria;People�s Republic of Northumbria;People�s Republic of Northumbria;;;;;;;;;;;x
+NTH_prussian_constitutionalism;Northumbria;Northumbria;Northumbria;;;;;;;;;;;x
+NTH_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x
+NTH_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x
+NTH_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x
+NTH;Northumbria;Northumbria;Northumbria;;;;;;;;;;;x
+ORL_absolute_monarchy;Duchy of Orleans;Duchy of Orleans;Duchy of Orleans;;;;;;;;;;;x;
+ORL_ADJ;Orleans;Orleans;Orleans;;;;;;;;;;;x;
+ORL_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+ORL_bourgeois_dictatorship;Republic of Orleans;Republic of Orleans;Republic of Orleans;;;;;;;;;;;x;
+ORL_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+ORL_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+ORL_democracy;Orleans;Orleans;Orleans;;;;;;;;;;;x;
+ORL_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+ORL_fascist_dictatorship;State of Orleans;State of Orleans;State of Orleans;;;;;;;;;;;x;
+ORL_hms_government;Orleans;Orleans;Orleans;;;;;;;;;;;x;
+ORL_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+ORL_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+ORL_presidential_dictatorship;Republic of Orleans;Republic of Orleans;Republic of Orleans;;;;;;;;;;;x;
+ORL_proletarian_dictatorship;Commune of Orleans;Commune of Orleans;Commune of Orleans;;;;;;;;;;;x;
+ORL_prussian_constitutionalism;Orleans;Orleans;Orleans;;;;;;;;;;;x;
+ORL_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+ORL_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+ORL_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+ORL;Orleans;Orleans;Orleans;;;;;;;;;;;x;
+PAG_absolute_monarchy;Kingdom of Papua;Kingdom of Papua;Kingdom of Papua;;;;;;;;;;;x
+PAG_ADJ;Papua New Guinean;Papua New Guinean;Papua New Guinean;;;;;;;;;;;x
+PAG_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x
+PAG_bourgeois_dictatorship;Republic of Papua New Guinea;Republic of Papua New Guinea;Republic of Papua New Guinea;;;;;;;;;;;x
+PAG_communist_86;Communists;Communists;Communists;;;;;;;;;;;x
+PAG_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x
+PAG_democracy;Republic of Papua New Guinea;Republic of Papua New Guinea;Republic of Papua New Guinea;;;;;;;;;;;x
+PAG_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x
+PAG_fascist_dictatorship;State of Papua New Guinea;State of Papua New Guinea;State of Papua New Guinea;;;;;;;;;;;x
+PAG_hms_government;Kingdom of Papua;Kingdom of Papua;Kingdom of Papua;;;;;;;;;;;x
+PAG_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x
+PAG_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x
+PAG_presidential_dictatorship;Republic of Papua New Guinea;Republic of Papua New Guinea;Republic of Papua New Guinea;;;;;;;;;;;x
+PAG_proletarian_dictatorship;Peoples Republic of Papua;Peoples Republic of Papua;Peoples Republic of Papua;;;;;;;;;;;x
+PAG_prussian_constitutionalism;Kingdom of Papua;Kingdom of Papua;Kingdom of Papua;;;;;;;;;;;x
+PAG_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x
+PAG_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x
+PAG_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x
+PAG;Papua New Guinea;Papua New Guinea;Papua New Guinea;;;;;;;;;;;x
+POE_absolute_monarchy;Polesia;Polesia;Polesia;;;;;;;;;;;x;
+POE_ADJ;Polesian;Polesian;Polesian;;;;;;;;;;;x;
+POE_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+POE_bourgeois_dictatorship;Republic of Polesia;Republic of Polesia;Republic of Polesia;;;;;;;;;;;x;
+POE_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+POE_conservative_95;Fatherland Party;Fatherland Party;Fatherland Party;;;;;;;;;;;x;
+POE_democracy;Polesia;Polesia;Polesia;;;;;;;;;;;x;
+POE_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+POE_fascist_dictatorship;State of Polesia;State of Polesia;State of Polesia;;;;;;;;;;;x;
+POE_hms_government;Polesia;Polesia;Polesia;;;;;;;;;;;x;
+POE_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+POE_liberal_84;People's Party;People's Party;People's Party;;;;;;;;;;;x;
+POE_presidential_dictatorship;Republic of Polesia;Republic of Polesia;Republic of Polesia;;;;;;;;;;;x;
+POE_proletarian_dictatorship;Soviet State of Polesia;Soviet State of Polesia;Soviet State of Polesia;;;;;;;;;;;x;
+POE_prussian_constitutionalism;Polesia;Polesia;Polesia;;;;;;;;;;;x;
+POE_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+POE_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+POE_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+POE;Polesia;Polesia;Polesia;;;;;;;;;;;x;
+POI_absolute_monarchy;Podolia;Podolia;Podolia;;;;;;;;;;;x;
+POI_ADJ;Podolian;Podolian;Podolian;;;;;;;;;;;x;
+POI_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+POI_bourgeois_dictatorship;Republic of Podolia;Republic of Podolia;Republic of Podolia;;;;;;;;;;;x;
+POI_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+POI_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+POI_democracy;Podolia;Podolia;Podolia;;;;;;;;;;;x;
+POI_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+POI_fascist_dictatorship;State of Podolia;State of Podolia;State of Podolia;;;;;;;;;;;x;
+POI_hms_government;Podolia;Podolia;Podolia;;;;;;;;;;;x;
+POI_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+POI_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+POI_presidential_dictatorship;Republic of Podolia;Republic of Podolia;Republic of Podolia;;;;;;;;;;;x;
+POI_proletarian_dictatorship;Soviet State of Podolia;Soviet State of Podolia;Soviet State of Podolia;;;;;;;;;;;x;
+POI_prussian_constitutionalism;Podolia;Podolia;Podolia;;;;;;;;;;;x;
+POI_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+POI_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+POI_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+POI;Podolia;Podolia;Podolia;;;;;;;;;;;x;
+POT_absolute_monarchy;Poitou-Char�ntes;Poitou-Char�ntes;Poitou-Char�ntes;;;;;;;;;;;x;
+POT_ADJ;Poitevine;Poitevine;Poitevine;;;;;;;;;;;x;
+POT_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+POT_bourgeois_dictatorship;Poitevine Republic ;Poitevine Republic ;Poitevine Republic ;;;;;;;;;;;x;
+POT_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+POT_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+POT_democracy;Poitou-Char�ntes;Poitou-Char�ntes;Poitou-Char�ntes;;;;;;;;;;;x;
+POT_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+POT_fascist_dictatorship;State of Auvergne;State of Auvergne;State of Auvergne;;;;;;;;;;;x;
+POT_hms_government;Poitou-Char�ntes;Poitou-Char�ntes;Poitou-Char�ntes;;;;;;;;;;;x;
+POT_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+POT_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+POT_presidential_dictatorship;Poitevine Republic ;Poitevine Republic ;Poitevine Republic ;;;;;;;;;;;x;
+POT_proletarian_dictatorship;Socialist Poitevine Republic ;Socialist Poitevine Republic ;Socialist Poitevine Republic ;;;;;;;;;;;x;
+POT_prussian_constitutionalism;Poitou-Char�ntes;Poitou-Char�ntes;Poitou-Char�ntes;;;;;;;;;;;x;
+POT_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+POT_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+POT_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+POT;Poitou-Char�ntes;Poitou-Char�ntes;Poitou-Char�ntes;;;;;;;;;;;x;
+PUE_absolute_monarchy;Puerto Rico;Puerto Rico;Puerto Rico;;;;;;;;;;;x;
+PUE_ADJ;Puerto Rican;Puerto Rican;Puerto Rican;;;;;;;;;;;x;
+PUE_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+PUE_bourgeois_dictatorship;Puerto Rican Republic;Puerto Rican Republic;Puerto Rican Republic;;;;;;;;;;;x;
+PUE_communist_102;Socialist Workers Movement;Socialist Workers Movement;Socialist Workers Movement;;;;;;;;;;;x;
+PUE_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+PUE_democracy;Puerto Rico;Puerto Rico;Puerto Rico;;;;;;;;;;;x;
+PUE_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+PUE_fascist_dictatorship;Puerto Rico;Puerto Rico;Puerto Rico;;;;;;;;;;;x;
+PUE_hms_government;Puerto Rico;Puerto Rico;Puerto Rico;;;;;;;;;;;x;
+PUE_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+PUE_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+PUE_presidential_dictatorship;Puerto Rican Republic;Puerto Rican Republic;Puerto Rican Republic;;;;;;;;;;;x;
+PUE_proletarian_dictatorship;SRPR;SRPR;SRPR;;;;;;;;;;;x;
+PUE_prussian_constitutionalism;Puerto Rico;Puerto Rico;Puerto Rico;;;;;;;;;;;x;
+PUE_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+PUE_socialist_115;Puerto Ricans for Puerto Rico Party;Puerto Ricans for Puerto Rico Party;Puerto Ricans for Puerto Rico Party;;;;;;;;;;;x;
+PUE_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+PUE;Puerto Rico;Puerto Rico;Puerto Rico;;;;;;;;;;;x;
+RHI_absolute_monarchy;Kingdom of the Rheinland;Kingdom of the Rheinland;Kingdom of the Rheinland;;;;;;;;;;;x;
+RHI_ADJ;Rhenish;Rhenish;Rhenish;;;;;;;;;;;x;
+RHI_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+RHI_bourgeois_dictatorship;Rheinland Republic;Rheinland Republic;Rheinland Republic;;;;;;;;;;;x;
+RHI_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+RHI_conservative_82;CDU;CDU;CDU;;;;;;;;;;;x;
+RHI_democracy;Rheinland Federation;Rheinland Federation;Rheinland Federation;;;;;;;;;;;x;
+RHI_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+RHI_fascist_dictatorship;Rheinland State;Rheinland State;Rheinland State;;;;;;;;;;;x;
+RHI_hms_government;Kingdom of the Rheinland;Kingdom of the Rheinland;Kingdom of the Rheinland;;;;;;;;;;;x;
+RHI_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+RHI_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+RHI_presidential_dictatorship;Rheinland Republic;Rheinland Republic;Rheinland Republic;;;;;;;;;;;x;
+RHI_proletarian_dictatorship;Rhenish Peoples Republic;Rhenish Peoples Republic;Rhenish Peoples Republic;;;;;;;;;;;x;
+RHI_prussian_constitutionalism;Kingdom of the Rheinland;Kingdom of the Rheinland;Kingdom of the Rheinland;;;;;;;;;;;x;
+RHI_reactionary_82;Nationalist Party;Nationalist Party;Nationalist Party;;;;;;;;;;;x;
+RHI_socialist_78;SDP;SDP;SDP;;;;;;;;;;;x;
+RHI_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+RHI;Rheinland ;Rheinland ;Rheinland ;;;;;;;;;;;x;
+RTA_absolute_monarchy;RTA;RTA;RTA;;;;;;;;;;;x;
+RTA_ADJ;French;French;French;;;;;;;;;;;x;
+RTA_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+RTA_bourgeois_dictatorship;RTA;RTA;RTA;;;;;;;;;;;x;
+RTA_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+RTA_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+RTA_democracy;RTA;RTA;RTA;;;;;;;;;;;x;
+RTA_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+RTA_fascist_dictatorship;RTA;RTA;RTA;;;;;;;;;;;x;
+RTA_hms_government;RTA;RTA;RTA;;;;;;;;;;;x;
+RTA_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+RTA_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+RTA_presidential_dictatorship;RTA;RTA;RTA;;;;;;;;;;;x;
+RTA_proletarian_dictatorship;RTA;RTA;RTA;;;;;;;;;;;x;
+RTA_prussian_constitutionalism;RTA;RTA;RTA;;;;;;;;;;;x;
+RTA_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+RTA_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+RTA_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+RTA;RTA;RTA;RTA;;;;;;;;;;;x;
+RUC_absolute_monarchy;Russian Tsardom;Russian Tsardom;Russian Tsardom;;;;;;;;;;;x;
+RUC_ADJ;Russian;Russian;Russian;;;;;;;;;;;x;
+RUC_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+RUC_bourgeois_dictatorship;Russian Republic;Russian Republic;Russian Republic;;;;;;;;;;;x;
+RUC_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+RUC_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+RUC_democracy;Russian Confederacy;Russian Confederacy;Russian Confederacy;;;;;;;;;;;x;
+RUC_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+RUC_fascist_dictatorship;Greather Russian State;Greather Russian State;Greather Russian State;;;;;;;;;;;x;
+RUC_hms_government;Russian Tsardom;Russian Tsardom;Russian Tsardom;;;;;;;;;;;x;
+RUC_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+RUC_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+RUC_presidential_dictatorship;Russian Republic;Russian Republic;Russian Republic;;;;;;;;;;;x;
+RUC_proletarian_dictatorship;RSSR;RSSR;RSSR;;;;;;;;;;;x;
+RUC_prussian_constitutionalism;Russian Tsardom;Russian Tsardom;Russian Tsardom;;;;;;;;;;;x;
+RUC_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+RUC_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+RUC_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+RUC;Russian Confederacy;Russian Confederacy;Russian Confederacy;;;;;;;;;;;x;
+RZA_absolute_monarchy;Duchy of the Cape;Duchy of the Cape;Duchy of the Cape;;;;;;;;;;;x;
+RZA_ADJ;Boer;Boer;Boer;;;;;;;;;;;x;
+RZA_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+RZA_bourgeois_dictatorship;RZA;RZA;RZA;;;;;;;;;;;x;
+RZA_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+RZA_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+RZA_democracy;RZA;RZA;RZA;;;;;;;;;;;x;
+RZA_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+RZA_fascist_dictatorship;RZA;RZA;RZA;;;;;;;;;;;x;
+RZA_hms_government;Duchy of the Cape;Duchy of the Cape;Duchy of the Cape;;;;;;;;;;;x;
+RZA_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+RZA_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+RZA_presidential_dictatorship;RZA;RZA;RZA;;;;;;;;;;;x;
+RZA_proletarian_dictatorship;SRZA;SRZA;SRZA;;;;;;;;;;;x;
+RZA_prussian_constitutionalism;Duchy of the Cape;Duchy of the Cape;Duchy of the Cape;;;;;;;;;;;x;
+RZA_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+RZA_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+RZA_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+RZA;RZA;RZA;RZA;;;;;;;;;;;x;
+SAD_absolute_monarchy;Sardinia;Sardinia;Sardinia;;;;;;;;;;;x;
+SAD_ADJ;Sardinian;Sardinian;Sardinian;;;;;;;;;;;x;
+SAD_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+SAD_bourgeois_dictatorship;Sardinia;Sardinia;Sardinia;;;;;;;;;;;x;
+SAD_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+SAD_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+SAD_democracy;Sardinia;Sardinia;Sardinia;;;;;;;;;;;x;
+SAD_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+SAD_fascist_dictatorship;Sardinia;Sardinia;Sardinia;;;;;;;;;;;x;
+SAD_hms_government;Sardinia;Sardinia;Sardinia;;;;;;;;;;;x;
+SAD_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+SAD_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+SAD_presidential_dictatorship;Sardinia;Sardinia;Sardinia;;;;;;;;;;;x;
+SAD_proletarian_dictatorship;Sardinia;Sardinia;Sardinia;;;;;;;;;;;x;
+SAD_prussian_constitutionalism;Sardinia;Sardinia;Sardinia;;;;;;;;;;;x;
+SAD_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+SAD_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+SAD_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+SAD;Sardinia;Sardinia;Sardinia;;;;;;;;;;;x;
+SAU_absolute_monarchy;Saudi Arabia;Saudi Arabia;Saudi Arabia;;;;;;;;;;;x;
+SAU_ADJ;Arabian;Arabian;Arabian;;;;;;;;;;;x;
+SAU_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+SAU_bourgeois_dictatorship;Republic of Arabia;Republic of Arabia;Republic of Arabia;;;;;;;;;;;x;
+SAU_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+SAU_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+SAU_democracy;Arabia;Arabia;Arabia;;;;;;;;;;;x;
+SAU_fascist_78;Hizb ut-Tahrir;Hizb ut-Tahrir;Hizb ut-Tahrir;;;;;;;;;;;x;
+SAU_fascist_dictatorship;Arab State;Arab State;Arab State;;;;;;;;;;;x;
+SAU_hms_government;Saudi Arabia;Saudi Arabia;Saudi Arabia;;;;;;;;;;;x;
+SAU_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+SAU_liberal_98;Green Party of Saudi Arabia;Green Party of Saudi Arabia;Green Party of Saudi Arabia;;;;;;;;;;;x;
+SAU_presidential_dictatorship;Republic of Arabia;Republic of Arabia;Republic of Arabia;;;;;;;;;;;x;
+SAU_proletarian_dictatorship;Socialist Republic of Arabia;Socialist Republic of Arabia;Socialist Republic of Arabia;;;;;;;;;;;x;
+SAU_prussian_constitutionalism;Saudi Arabia;Saudi Arabia;Saudi Arabia;;;;;;;;;;;x;
+SAU_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+SAU_socialist_102;Arab Socialist Action Party;Arab Socialist Action Party;Arab Socialist Action Party;;;;;;;;;;;x;
+SAU_socialist_92;Ba'ath Party;Ba'ath Party;Ba'ath Party;;;;;;;;;;;x;
+SAU;Saudi Arabia;Saudi Arabia;Saudi Arabia;;;;;;;;;;;x;
+SEN_absolute_monarchy;Kingdom of Southern England;Kingdom of Southern England;Kingdom of Southern England;;;;;;;;;;;x;
+SEN_ADJ;Southern English;Southern English;Southern English;;;;;;;;;;;x;
+SEN_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+SEN_bourgeois_dictatorship;Republic of Southern England;Republic of Southern England;Republic of Southern England;;;;;;;;;;;x;
+SEN_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+SEN_conservative_97;Conservative Party;Conservative Party;Conservative Party;;;;;;;;;;;x;
+SEN_democracy;Southern England;Southern England;Southern England;;;;;;;;;;;x;
+SEN_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+SEN_fascist_dictatorship;State of Southern England;State of Southern England;State of Southern England;;;;;;;;;;;x;
+SEN_hms_government;Kingdom of Southern England;Kingdom of Southern England;Kingdom of Southern England;;;;;;;;;;;x;
+SEN_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+SEN_liberal_88;The Liberal Party;The Liberal Party;The Liberal Party;;;;;;;;;;;x;
+SEN_presidential_dictatorship;Republic of Southern England;Republic of Southern England;Republic of Southern England;;;;;;;;;;;x;
+SEN_proletarian_dictatorship;Commune of Southern England;Commune of Southern England;Commune of Southern England;;;;;;;;;;;x;
+SEN_prussian_constitutionalism;Kingdom of Southern England;Kingdom of Southern England;Kingdom of Southern England;;;;;;;;;;;x;
+SEN_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+SEN_socialist_78;SDP;SDP;SDP;;;;;;;;;;;x;
+SEN_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+SEN;Southern England;Southern England;Southern England;;;;;;;;;;;x;
+SIG_absolute_monarchy;Kingdom of Singapore;Kingdom of Singapore;Kingdom of Singapore;;;;;;;;;;;x;
+SIG_ADJ;Singapore;Singapore;Singapore;;;;;;;;;;;x;
+SIG_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+SIG_bourgeois_dictatorship;Republic of Singapore;Republic of Singapore;Republic of Singapore;;;;;;;;;;;x;
+SIG_communist_103;Workers' Party of Singapore;Workers' Party of Singapore;Workers' Party of Singapore;;;;;;;;;;;x;
+SIG_conservative_105;Singapore Democratic Party;Singapore Democratic Party;Singapore Democratic Party;;;;;;;;;;;x;
+SIG_democracy;Republic of Singapore;Republic of Singapore;Republic of Singapore;;;;;;;;;;;x;
+SIG_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+SIG_fascist_dictatorship;State of Singapore;State of Singapore;State of Singapore;;;;;;;;;;;x;
+SIG_hms_government;Kingdom of Singapore;Kingdom of Singapore;Kingdom of Singapore;;;;;;;;;;;x;
+SIG_liberal_100;Singapore Democratic Alliance;Singapore Democratic Alliance;Singapore Democratic Alliance;;;;;;;;;;;x;
+SIG_liberal_92;People's Action Party ;People's Action Party ;People's Action Party ;;;;;;;;;;;x;
+SIG_presidential_dictatorship;Republic of Singapore;Republic of Singapore;Republic of Singapore;;;;;;;;;;;x;
+SIG_proletarian_dictatorship;Commune of Singapore;Commune of Singapore;Commune of Singapore;;;;;;;;;;;x;
+SIG_prussian_constitutionalism;Kingdom of Singapore;Kingdom of Singapore;Kingdom of Singapore;;;;;;;;;;;x;
+SIG_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+SIG_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+SIG_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+SIG;Singapore;Singapore;Singapore;;;;;;;;;;;x;
+SOV_absolute_monarchy;Euroasian Empire;Euroasian Empire;Euroasian Empire;;;;;;;;;;;x;
+SOV_ADJ;Russian;Russian;Russian;;;;;;;;;;;x;
+SOV_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+SOV_bourgeois_dictatorship;Republic of Euroasia;Republic of Euroasia;Republic of Euroasia;;;;;;;;;;;x;
+SOV_communist_80;CPSU;CPSU;CPSU;;;;;;;;;;;x;
+SOV_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+SOV_democracy;Euroasian Federation;Euroasian Federation;Euroasian Federation;;;;;;;;;;;x;
+SOV_fascist_69;LDPSU;LDPSU;LDPSU;;;;;;;;;;;x;
+SOV_fascist_dictatorship;Greater Euroasia;Greater Euroasia;Greater Euroasia;;;;;;;;;;;x;
+SOV_hms_government;Euroasian Empire;Euroasian Empire;Euroasian Empire;;;;;;;;;;;x;
+SOV_liberal_87;Democratic Union;Democratic Union;Democratic Union;;;;;;;;;;;x;
+SOV_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+SOV_presidential_dictatorship;Republic of Euroasia;Republic of Euroasia;Republic of Euroasia;;;;;;;;;;;x;
+SOV_proletarian_dictatorship;USSR;USSR;USSR;;;;;;;;;;;x;
+SOV_prussian_constitutionalism;Euroasian Empire;Euroasian Empire;Euroasian Empire;;;;;;;;;;;x;
+SOV_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+SOV_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+SOV_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+SOV;USSR;USSR;USSR;;;;;;;;;;;x;
+SPR_absolute_monarchy;Kingdom of Spain;Kingdom of Spain;Kingdom of Spain;;;;;;;;;;;x;
+SPR_ADJ;Spanish;Spanish;Spanish;;;;;;;;;;;x;
+SPR_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+SPR_bourgeois_dictatorship;Republic of Spain;Republic of Spain;Republic of Spain;;;;;;;;;;;x;
+SPR_communist_90; Workers Party; Workers Party; Workers Party;;;;;;;;;;;x;
+SPR_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+SPR_democracy;Republic of Spain;Republic of Spain;Republic of Spain;;;;;;;;;;;x;
+SPR_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+SPR_fascist_dictatorship;Spanish State;Spanish State;Spanish State;;;;;;;;;;;x;
+SPR_hms_government;Kingdom of Spain;Kingdom of Spain;Kingdom of Spain;;;;;;;;;;;x;
+SPR_liberal_87;Federalist Party;Federalist Party;Federalist Party;;;;;;;;;;;x;
+SPR_liberal_95;National Republican Party;National Republican Party;National Republican Party;;;;;;;;;;;x;
+SPR_presidential_dictatorship;Republic of Spain;Republic of Spain;Republic of Spain;;;;;;;;;;;x;
+SPR_proletarian_dictatorship;Spanish Socialist Republic;Spanish Socialist Republic;Spanish Socialist Republic;;;;;;;;;;;x;
+SPR_prussian_constitutionalism;Kingdom of Spain;Kingdom of Spain;Kingdom of Spain;;;;;;;;;;;x;
+SPR_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+SPR_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+SPR_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+SPR;Republic of Spain;Republic of Spain;Republic of Spain;;;;;;;;;;;x;
+SUD_absolute_monarchy;Sudan;Sudan;Sudan;;;;;;;;;;;x;
+SUD_ADJ;Sudanese;Sudanese;Sudanese;;;;;;;;;;;x;
+SUD_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+SUD_bourgeois_dictatorship;Republic Of Sudan ;Republic Of Sudan ;Republic Of Sudan ;;;;;;;;;;;x;
+SUD_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+SUD_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+SUD_democracy;Sudan;Sudan;Sudan;;;;;;;;;;;x;
+SUD_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+SUD_fascist_dictatorship;United Sudan;United Sudan;United Sudan;;;;;;;;;;;x;
+SUD_hms_government;Sudan;Sudan;Sudan;;;;;;;;;;;x;
+SUD_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+SUD_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+SUD_presidential_dictatorship;Republic Of Sudan ;Republic Of Sudan ;Republic Of Sudan ;;;;;;;;;;;x;
+SUD_proletarian_dictatorship;Socialist Republic of Sudan;Socialist Republic of Sudan;Socialist Republic of Sudan;;;;;;;;;;;x;
+SUD_prussian_constitutionalism;Sudan;Sudan;Sudan;;;;;;;;;;;x;
+SUD_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+SUD_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+SUD_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+SUD;Sudan;Sudan;Sudan;;;;;;;;;;;x;
+TAI_absolute_monarchy;Taiwanese Kingdom ;Taiwanese Kingdom ;Taiwanese Kingdom ;;;;;;;;;;;x;
+TAI_ADJ;Taiwanese;Taiwanese;Taiwanese;;;;;;;;;;;x;
+TAI_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+TAI_bourgeois_dictatorship;Taiwanese Republic of China ;Taiwanese Republic of China ;Taiwanese Republic of China ;;;;;;;;;;;x;
+TAI_communist_98;Taiwan's Peoples Party;Taiwan's Peoples Party;Taiwan's Peoples Party;;;;;;;;;;;x;
+TAI_conservative_89;Kuomintang;Kuomintang;Kuomintang;;;;;;;;;;;x;
+TAI_democracy;Taiwanese Republic of China ;Taiwanese Republic of China ;Taiwanese Republic of China ;;;;;;;;;;;x;
+TAI_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+TAI_fascist_dictatorship;State of Taiwan;State of Taiwan;State of Taiwan;;;;;;;;;;;x;
+TAI_hms_government;Taiwanese Kingdom ;Taiwanese Kingdom ;Taiwanese Kingdom ;;;;;;;;;;;x;
+TAI_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+TAI_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+TAI_presidential_dictatorship;Taiwanese Republic of China ;Taiwanese Republic of China ;Taiwanese Republic of China ;;;;;;;;;;;x;
+TAI_proletarian_dictatorship;TPRC ;TPRC ;TPRC ;;;;;;;;;;;x;
+TAI_prussian_constitutionalism;Taiwanese Kingdom ;Taiwanese Kingdom ;Taiwanese Kingdom ;;;;;;;;;;;x;
+TAI_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+TAI_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+TAI_socialist_99;Taiwan's Socialist Party;Taiwan's Socialist Party;Taiwan's Socialist Party;;;;;;;;;;;x;
+TAI;Taiwan;Taiwan;Taiwan;;;;;;;;;;;x;
+TAQ_absolute_monarchy;Tamahaq;Tamahaq;Tamahaq;;;;;;;;;;;x;
+TAQ_ADJ;Tamahaq;Tamahaq;Tamahaq;;;;;;;;;;;x;
+TAQ_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+TAQ_bourgeois_dictatorship;Republic of Tamahaq;Republic of Tamahaq;Republic of Tamahaq;;;;;;;;;;;x;
+TAQ_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+TAQ_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+TAQ_democracy;Tamahaq;Tamahaq;Tamahaq;;;;;;;;;;;x;
+TAQ_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+TAQ_fascist_dictatorship;Greater Tamahaq;Greater Tamahaq;Greater Tamahaq;;;;;;;;;;;x;
+TAQ_hms_government;Tamahaq;Tamahaq;Tamahaq;;;;;;;;;;;x;
+TAQ_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+TAQ_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+TAQ_presidential_dictatorship;Republic of Tamahaq;Republic of Tamahaq;Republic of Tamahaq;;;;;;;;;;;x;
+TAQ_proletarian_dictatorship;Commune of Tamahaq;Commune of Tamahaq;Commune of Tamahaq;;;;;;;;;;;x;
+TAQ_prussian_constitutionalism;Tamahaq;Tamahaq;Tamahaq;;;;;;;;;;;x;
+TAQ_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+TAQ_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+TAQ_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+TAQ;Tamahaq;Tamahaq;Tamahaq;;;;;;;;;;;x;
 TIM_absolute_monarchy;Kingdom of Timor;Kingdom of Timor;Kingdom of Timor;;;;;;;;;;;x;
 TIM_ADJ;East Timorese;East Timorese;East Timorese;;;;;;;;;;;x;
 TIM_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
@@ -854,6 +1348,139 @@ TIM_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;
 TIM_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
 TIM_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
 TIM;East Timor;East Timor;East Timor;;;;;;;;;;;x;
+TRB_absolute_monarchy;Trabzon;Trabzon;Trabzon;;;;;;;;;;;x
+TRB_ADJ;Trabzonian;Trabzonian;Trabzonian;;;;;;;;;;;x
+TRB_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x
+TRB_bourgeois_dictatorship;Republic of Trabzon;Republic of Trabzon;Republic of Trabzon;;;;;;;;;;;x
+TRB_communist_86;Communists;Communists;Communists;;;;;;;;;;;x
+TRB_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x
+TRB_democracy;Trabzon;Trabzon;Trabzon;;;;;;;;;;;x
+TRB_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x
+TRB_fascist_dictatorship;State of Trabzon;State of Trabzon;State of Trabzon;;;;;;;;;;;x
+TRB_hms_government;Trabzon;Trabzon;Trabzon;;;;;;;;;;;x
+TRB_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x
+TRB_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x
+TRB_presidential_dictatorship;Republic of Trabzon;Republic of Trabzon;Republic of Trabzon;;;;;;;;;;;x
+TRB_proletarian_dictatorship;Communie of Trabzon;Communie of Trabzon;Communie of Trabzon;;;;;;;;;;;x
+TRB_prussian_constitutionalism;Trabzon;Trabzon;Trabzon;;;;;;;;;;;x
+TRB_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x
+TRB_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x
+TRB_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x
+TRB;Trabzon;Trabzon;Trabzon;;;;;;;;;;;x
+UAR_absolute_monarchy;United American Kingdom;United American Kingdom;United American Kingdom;;;;;;;;;;;x;
+UAR_ADJ;Argentine;Argentine;Argentine;;;;;;;;;;;x;
+UAR_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+UAR_bourgeois_dictatorship;United American Republic;United American Republic;United American Republic;;;;;;;;;;;x;
+UAR_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+UAR_conservative_93;National Front;National Front;National Front;;;;;;;;;;;x;
+UAR_democracy;United American Republic;United American Republic;United American Republic;;;;;;;;;;;x;
+UAR_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+UAR_fascist_dictatorship;R�o de la Plata;R�o de la Plata;R�o de la Plata;;;;;;;;;;;x;
+UAR_hms_government;United American Kingdom;United American Kingdom;United American Kingdom;;;;;;;;;;;x;
+UAR_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+UAR_liberal_84;Colorado Party;Colorado Party;Colorado Party;;;;;;;;;;;x;
+UAR_presidential_dictatorship;United American Republic;United American Republic;United American Republic;;;;;;;;;;;x;
+UAR_proletarian_dictatorship;United American Peoples Republic;United American Peoples Republic;United American Peoples Republic;;;;;;;;;;;x;
+UAR_prussian_constitutionalism;United American Kingdom;United American Kingdom;United American Kingdom;;;;;;;;;;;x;
+UAR_reactionary_83;Justicialist Party;Justicialist Party;Justicialist Party;;;;;;;;;;;x;
+UAR_socialist_90;Socialist Party;Socialist Party;Socialist Party;;;;;;;;;;;x;
+UAR_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+UAR;United American Republic;United American Republic;United American Republic;;;;;;;;;;;x;
+VIC_absolute_monarchy;Victoria;Victoria;Victoria;;;;;;;;;;;x;
+VIC_ADJ;Victorian;Victorian;Victorian;;;;;;;;;;;x;
+VIC_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+VIC_bourgeois_dictatorship;Victorian Republic;Victorian Republic;Victorian Republic;;;;;;;;;;;x;
+VIC_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+VIC_conservative_98;Social Credit Party;Social Credit Party;Social Credit Party;;;;;;;;;;;x;
+VIC_democracy;Victoria;Victoria;Victoria;;;;;;;;;;;x;
+VIC_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+VIC_fascist_dictatorship;Victorian State;Victorian State;Victorian State;;;;;;;;;;;x;
+VIC_hms_government;Victoria;Victoria;Victoria;;;;;;;;;;;x;
+VIC_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+VIC_liberal_95;Liberal Capitalist Party;Liberal Capitalist Party;Liberal Capitalist Party;;;;;;;;;;;x;
+VIC_presidential_dictatorship;Victorian Republic;Victorian Republic;Victorian Republic;;;;;;;;;;;x;
+VIC_proletarian_dictatorship;Victoria Peoples Republic;Victoria Peoples Republic;Victoria Peoples Republic;;;;;;;;;;;x;
+VIC_prussian_constitutionalism;Victoria;Victoria;Victoria;;;;;;;;;;;x;
+VIC_reactionary_93;Canadian Reunification Party;Canadian Reunification Party;Canadian Reunification Party;;;;;;;;;;;x;
+VIC_socialist_98;Social Democratic Party;Social Democratic Party;Social Democratic Party;;;;;;;;;;;x;
+VIC_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+VIC;Victoria;Victoria;Victoria;;;;;;;;;;;x;
+VOL_absolute_monarchy;Duchy of Volkstaat;Duchy of Volkstaat;Duchy of Volkstaat;;;;;;;;;;;x;
+VOL_ADJ;Volk;Volk;Volk;;;;;;;;;;;x;
+VOL_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+VOL_bourgeois_dictatorship;Volkstaat;Volkstaat;Volkstaat;;;;;;;;;;;x;
+VOL_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+VOL_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+VOL_democracy;Volkstaat;Volkstaat;Volkstaat;;;;;;;;;;;x;
+VOL_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+VOL_fascist_dictatorship;Volkstaat;Volkstaat;Volkstaat;;;;;;;;;;;x;
+VOL_hms_government;Duchy of Volkstaat;Duchy of Volkstaat;Duchy of Volkstaat;;;;;;;;;;;x;
+VOL_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+VOL_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+VOL_presidential_dictatorship;Volkstaat;Volkstaat;Volkstaat;;;;;;;;;;;x;
+VOL_proletarian_dictatorship;Socialist Republic of Volkstaat;Socialist Republic of Volkstaat;Socialist Republic of Volkstaat;;;;;;;;;;;x;
+VOL_prussian_constitutionalism;Duchy of Volkstaat;Duchy of Volkstaat;Duchy of Volkstaat;;;;;;;;;;;x;
+VOL_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+VOL_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+VOL_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+VOL;Volkstaat;Volkstaat;Volkstaat;;;;;;;;;;;x;
+VOY_absolute_monarchy;Volhynia;Volhynia;Volhynia;;;;;;;;;;;x;
+VOY_ADJ;Volhynian;Volhynian;Volhynian;;;;;;;;;;;x;
+VOY_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+VOY_bourgeois_dictatorship;Volhynian Commonwealth;Volhynian Commonwealth;Volhynian Commonwealth;;;;;;;;;;;x;
+VOY_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+VOY_conservative_103;Volhynian People's Party;Volhynian People's Party;Volhynian People's Party;;;;;;;;;;;x;
+VOY_democracy;Volhynia;Volhynia;Volhynia;;;;;;;;;;;x;
+VOY_fascist_86;Fatherland Union Party;Fatherland Union Party;Fatherland Union Party;;;;;;;;;;;x;
+VOY_fascist_dictatorship;State of Volhynia;State of Volhynia;State of Volhynia;;;;;;;;;;;x;
+VOY_hms_government;Volhynia;Volhynia;Volhynia;;;;;;;;;;;x;
+VOY_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+VOY_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+VOY_presidential_dictatorship;Volhynian Commonwealth;Volhynian Commonwealth;Volhynian Commonwealth;;;;;;;;;;;x;
+VOY_proletarian_dictatorship;Soviet State of Volhynia;Soviet State of Volhynia;Soviet State of Volhynia;;;;;;;;;;;x;
+VOY_prussian_constitutionalism;Volhynia;Volhynia;Volhynia;;;;;;;;;;;x;
+VOY_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+VOY_socialist_102;Socialist Party of Volhynia;Socialist Party of Volhynia;Socialist Party of Volhynia;;;;;;;;;;;x;
+VOY_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+VOY;Volhynia;Volhynia;Volhynia;;;;;;;;;;;x;
+WAT_absolute_monarchy;Waterboersland;Waterboersland;Waterboersland;;;;;;;;;;;x;
+WAT_ADJ;Waterboers;Waterboers;Waterboers;;;;;;;;;;;x;
+WAT_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+WAT_bourgeois_dictatorship;Waterboersland;Waterboersland;Waterboersland;;;;;;;;;;;x;
+WAT_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+WAT_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+WAT_democracy;Waterboersland;Waterboersland;Waterboersland;;;;;;;;;;;x;
+WAT_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+WAT_fascist_dictatorship;Waterboersland;Waterboersland;Waterboersland;;;;;;;;;;;x;
+WAT_hms_government;Waterboersland;Waterboersland;Waterboersland;;;;;;;;;;;x;
+WAT_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+WAT_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+WAT_presidential_dictatorship;Waterboersland;Waterboersland;Waterboersland;;;;;;;;;;;x;
+WAT_proletarian_dictatorship;Socialist Republic of Waterboersland;Socialist Republic of Waterboersland;Socialist Republic of Waterboersland;;;;;;;;;;;x;
+WAT_prussian_constitutionalism;Waterboersland;Waterboersland;Waterboersland;;;;;;;;;;;x;
+WAT_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+WAT_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+WAT_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+WAT;Waterboersland;Waterboersland;Waterboersland;;;;;;;;;;;x;
+WPL_absolute_monarchy;Kingdom of West Poland;Kingdom of West Poland;Kingdom of West Poland;;;;;;;;;;;x
+WPL_ADJ;Polish;Polish;Polish;;;;;;;;;;;x
+WPL_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x
+WPL_bourgeois_dictatorship;Polish Republic;Polish Republic;Polish Republic;;;;;;;;;;;x
+WPL_communist_86;Communists;Communists;Communists;;;;;;;;;;;x
+WPL_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x
+WPL_democracy;Polish Republic;Polish Republic;Polish Republic;;;;;;;;;;;x
+WPL_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x
+WPL_fascist_dictatorship;Polish State;Polish State;Polish State;;;;;;;;;;;x
+WPL_hms_government;Kingdom of West Poland;Kingdom of West Poland;Kingdom of West Poland;;;;;;;;;;;x
+WPL_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x
+WPL_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x
+WPL_presidential_dictatorship;Polish Republic;Polish Republic;Polish Republic;;;;;;;;;;;x
+WPL_proletarian_dictatorship;Polish People's Republic;Polish People's Republic;Polish People's Republic;;;;;;;;;;;x
+WPL_prussian_constitutionalism;Kingdom of West Poland;Kingdom of West Poland;Kingdom of West Poland;;;;;;;;;;;x
+WPL_reactionary_78;Nationalists ;Nationalists ;Nationalists ;;;;;;;;;;;x
+WPL_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x
+WPL_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x
+WPL;West Poland;West Poland;West Poland;;;;;;;;;;;x
 XHO_absolute_monarchy;KwaXhosa;KwaXhosa;KwaXhosa;;;;;;;;;;;x;
 XHO_ADJ;Xhosan;Xhosan;Xhosan;;;;;;;;;;;x;
 XHO_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
@@ -873,3 +1500,41 @@ XHO_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;
 XHO_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
 XHO_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
 XHO;KwaXhosa;KwaXhosa;KwaXhosa;;;;;;;;;;;x;
+YUK_absolute_monarchy;Yukon;Yukon;Yukon;;;;;;;;;;;x;
+YUK_ADJ;Yukoner;Yukoner;Yukoner;;;;;;;;;;;x;
+YUK_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+YUK_bourgeois_dictatorship;Republic of Yukon;Republic of Yukon;Republic of Yukon;;;;;;;;;;;x;
+YUK_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+YUK_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+YUK_democracy;Yukon;Yukon;Yukon;;;;;;;;;;;x;
+YUK_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+YUK_fascist_dictatorship;Yukon State;Yukon State;Yukon State;;;;;;;;;;;x;
+YUK_hms_government;Yukon;Yukon;Yukon;;;;;;;;;;;x;
+YUK_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+YUK_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+YUK_presidential_dictatorship;Republic of Yukon;Republic of Yukon;Republic of Yukon;;;;;;;;;;;x;
+YUK_proletarian_dictatorship;Comune of Yukon;Comune of Yukon;Comune of Yukon;;;;;;;;;;;x;
+YUK_prussian_constitutionalism;Yukon;Yukon;Yukon;;;;;;;;;;;x;
+YUK_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+YUK_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+YUK_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+YUK;Yukon;Yukon;Yukon;;;;;;;;;;;x;
+ZIM_absolute_monarchy;Zimbabwe;Zimbabwe;Zimbabwe;;;;;;;;;;;x;
+ZIM_ADJ;Zimbabwean;Zimbabwean;Zimbabwean;;;;;;;;;;;x;
+ZIM_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+ZIM_bourgeois_dictatorship;Republic of Zimbabwe;Republic of Zimbabwe;Republic of Zimbabwe;;;;;;;;;;;x;
+ZIM_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+ZIM_conservative_112;Conservative Alliance of Zimbabwe;Conservative Alliance of Zimbabwe;Conservative Alliance of Zimbabwe;;;;;;;;;;;x;
+ZIM_democracy;Zimbabwe;Zimbabwe;Zimbabwe;;;;;;;;;;;x;
+ZIM_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+ZIM_fascist_dictatorship;State of Zimbabwe;State of Zimbabwe;State of Zimbabwe;;;;;;;;;;;x;
+ZIM_hms_government;Zimbabwe;Zimbabwe;Zimbabwe;;;;;;;;;;;x;
+ZIM_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+ZIM_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+ZIM_presidential_dictatorship;Republic of Zimbabwe;Republic of Zimbabwe;Republic of Zimbabwe;;;;;;;;;;;x;
+ZIM_proletarian_dictatorship;Socialist Republic of Zimbabwe;Socialist Republic of Zimbabwe;Socialist Republic of Zimbabwe;;;;;;;;;;;x;
+ZIM_prussian_constitutionalism;Zimbabwe;Zimbabwe;Zimbabwe;;;;;;;;;;;x;
+ZIM_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+ZIM_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+ZIM_socialist_95;Patriotic Front;Patriotic Front;Patriotic Front;;;;;;;;;;;x;
+ZIM;Zimbabwe;Zimbabwe;Zimbabwe;;;;;;;;;;;x;
