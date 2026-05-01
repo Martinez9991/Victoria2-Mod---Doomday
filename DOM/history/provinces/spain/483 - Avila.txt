@@ -2,5 +2,5 @@
 add_core = LEO
 add_core = SPA
 trade_goods = grain
-life_rating = 35
+life_rating = 5
 1861.1.1 = { railroad = 3 }
