@@ -26,12 +26,12 @@ AND_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
 AND_democracy;Andorra;Andorra;Andorra;;;;;;;;;;;x;
 AND_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
 AND_fascist_dictatorship;State of Andorra;State of Andorra;State of Andorra;;;;;;;;;;;x;
-AND_hms_government;Principality of Andorra;Principality of Andorra;Principality of Andorra;;;;;;;;;;;x;
+AND_hms_government;Andorra;Andorra;Andorra;;;;;;;;;;;x;
 AND_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
 AND_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
 AND_presidential_dictatorship;Republic of Andorra;Republic of Andorra;Republic of Andorra;;;;;;;;;;;x;
 AND_proletarian_dictatorship;Commune of Andorra;Commune of Andorra;Commune of Andorra;;;;;;;;;;;x;
-AND_prussian_constitutionalism;Principality of Andorra;Principality of Andorra;Principality of Andorra;;;;;;;;;;;x;
+AND_prussian_constitutionalism;Andorra;Andorra;Andorra;;;;;;;;;;;x;
 AND_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
 AND_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
 AND_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
@@ -61,15 +61,15 @@ ASR_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;
 ASR_bourgeois_dictatorship;Republic of Asturias;Republic of Asturias;Republic of Asturias;;;;;;;;;;;x;
 ASR_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
 ASR_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
-ASR_democracy;Republic of Asturias;Republic of Asturias;Republic of Asturias;;;;;;;;;;;x;
+ASR_democracy;Asturias; Asturias;Asturias;;;;;;;;;;;x;
 ASR_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
 ASR_fascist_dictatorship;Asturian State;Asturian State;Asturian State;;;;;;;;;;;x;
-ASR_hms_government;Kingdom of Asturias;Kingdom of Asturias;Kingdom of Asturias;;;;;;;;;;;x;
+ASR_hms_government;Asturias;Asturias;Asturias;;;;;;;;;;;x;
 ASR_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
 ASR_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
 ASR_presidential_dictatorship;Republic of Asturias;Republic of Asturias;Republic of Asturias;;;;;;;;;;;x;
 ASR_proletarian_dictatorship;Socialist Republic of Asturias;Socialist Republic of Asturias;Socialist Republic of Asturias;;;;;;;;;;;x;
-ASR_prussian_constitutionalism;Kingdom of Asturias;Kingdom of Asturias;Kingdom of Asturias;;;;;;;;;;;x;
+ASR_prussian_constitutionalism;Asturias;Asturias;Asturias;;;;;;;;;;;x;
 ASR_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
 ASR_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
 ASR_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
@@ -213,10 +213,10 @@ CLE_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;
 CLE_bourgeois_dictatorship;Republic of Cleveland;Republic of Cleveland;Republic of Cleveland;;;;;;;;;;;x;
 CLE_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
 CLE_conservative_89;Tory Party;Tory Party;Tory Party;;;;;;;;;;;x;
-CLE_democracy;Republic of Cleveland;Republic of Cleveland;Republic of Cleveland;;;;;;;;;;;x;
+CLE_democracy;Cleveland;Cleveland;Cleveland;;;;;;;;;;;x;
 CLE_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
 CLE_fascist_dictatorship;State of Cleveland;State of Cleveland;State of Cleveland;;;;;;;;;;;x;
-CLE_hms_government;Kingdom of Cleveland;Kingdom of Cleveland;Kingdom of Cleveland;;;;;;;;;;;x;
+CLE_hms_government;Cleveland;Cleveland;Cleveland;;;;;;;;;;;x;
 CLE_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
 CLE_liberal_88;Liberal Democrats;Liberal Democrats;Liberal Democrats;;;;;;;;;;;x;
 CLE_presidential_dictatorship;Republic of Cleveland;Republic of Cleveland;Republic of Cleveland;;;;;;;;;;;x;
@@ -422,15 +422,15 @@ EXT_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;
 EXT_bourgeois_dictatorship;Republic of Extremadura;Republic of Extremadura;Republic of Extremadura;;;;;;;;;;;x;
 EXT_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
 EXT_conservative_94;Partido Espa�ol;Partido Espa�ol;Partido Espa�ol;;;;;;;;;;;x;
-EXT_democracy;Republic of Extremadura;Republic of Extremadura;Republic of Extremadura;;;;;;;;;;;x;
+EXT_democracy;Extremadura;Extremadura;Extremadura;;;;;;;;;;;x;
 EXT_fascist_80;Uni�n Falangista;Uni�n Falangista;Uni�n Falangista;;;;;;;;;;;x;
 EXT_fascist_dictatorship;Falangist State of Extremadura;Falangist State of Extremadura;Falangist State of Extremadura;;;;;;;;;;;x;
-EXT_hms_government;Kingdom of Extremadura;Kingdom of Extremadura;Kingdom of Extremadura;;;;;;;;;;;x;
+EXT_hms_government;Extremadura;Extremadura;Extremadura;;;;;;;;;;;x;
 EXT_liberal_85;Estremaura Unia;Estremaura Unia;Estremaura Unia;;;;;;;;;;;x;
 EXT_liberal_95;Partiu Estreme�u Populal;Partiu Estreme�u Populal;Partiu Estreme�u Populal;;;;;;;;;;;x;
 EXT_presidential_dictatorship;Republic of Extremadura;Republic of Extremadura;Republic of Extremadura;;;;;;;;;;;x;
 EXT_proletarian_dictatorship;People�s Republic of Extremadura;People�s Republic of Extremadura;People�s Republic of Extremadura;;;;;;;;;;;x;
-EXT_prussian_constitutionalism;Kingdom of Extremadura;Kingdom of Extremadura;Kingdom of Extremadura;;;;;;;;;;;x;
+EXT_prussian_constitutionalism;Extremadura;Extremadura;Extremadura;;;;;;;;;;;x;
 EXT_reactionary_77;Partiu d'Rey;Partiu d'Rey;Partiu d'Rey;;;;;;;;;;;x;
 EXT_socialist_113;Partido Socialista Obrero Espa�ol;Partido Socialista Obrero Espa�ol;Partido Socialista Obrero Espa�ol;;;;;;;;;;;x;
 EXT_socialist_91;Izquierda Unida ;Izquierda Unida ;Izquierda Unida ;;;;;;;;;;;x;
@@ -479,15 +479,15 @@ GAL_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;
 GAL_bourgeois_dictatorship;Republic of Galicia ;Republic of Galicia ;Republic of Galicia ;;;;;;;;;;;x;
 GAL_communist_96;Uni�n Popular Galega;Uni�n Popular Galega;Uni�n Popular Galega;;;;;;;;;;;x;
 GAL_conservative_106;Unidade Democr�tica Galega ;Unidade Democr�tica Galega ;Unidade Democr�tica Galega ;;;;;;;;;;;x;
-GAL_democracy;Republic of Galicia ;Republic of Galicia ;Republic of Galicia ;;;;;;;;;;;x;
+GAL_democracy;Galicia ;Galicia ;Galicia ;;;;;;;;;;;x;
 GAL_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
 GAL_fascist_dictatorship;Republic of Galicia ;Republic of Galicia ;Republic of Galicia ;;;;;;;;;;;x;
-GAL_hms_government;Kingdom of Galicia;Kingdom of Galicia;Kingdom of Galicia;;;;;;;;;;;x;
+GAL_hms_government;Galicia;Galicia;Galicia;;;;;;;;;;;x;
 GAL_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
 GAL_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
 GAL_presidential_dictatorship;Republic of Galicia ;Republic of Galicia ;Republic of Galicia ;;;;;;;;;;;x;
 GAL_proletarian_dictatorship;Peoples Republic of Galicia ;Peoples Republic of Galicia ;Peoples Republic of Galicia ;;;;;;;;;;;x;
-GAL_prussian_constitutionalism;Kingdom of Galicia;Kingdom of Galicia;Kingdom of Galicia;;;;;;;;;;;x;
+GAL_prussian_constitutionalism;Galicia;Galicia;Galicia;;;;;;;;;;;x;
 GAL_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
 GAL_socialist_100;Partido Socialista Galego;Partido Socialista Galego;Partido Socialista Galego;;;;;;;;;;;x;
 GAL_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
@@ -574,15 +574,15 @@ IDA_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;
 IDA_bourgeois_dictatorship;Republic of Indonesia;Republic of Indonesia;Republic of Indonesia;;;;;;;;;;;x;
 IDA_communist_104;Communist Party of Indonesia;Communist Party of Indonesia;Communist Party of Indonesia;;;;;;;;;;;x;
 IDA_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
-IDA_democracy;Federal Republic of Indonesia;Federal Republic of Indonesia;Federal Republic of Indonesia;;;;;;;;;;;x;
+IDA_democracy;Indonesia;Indonesia;Indonesia;;;;;;;;;;;x;
 IDA_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
 IDA_fascist_dictatorship;Greather Indonesian State;Greather Indonesian State;Greather Indonesian State;;;;;;;;;;;x;
-IDA_hms_government;Empire Of Indonesia;Empire Of Indonesia;Empire Of Indonesia;;;;;;;;;;;x;
+IDA_hms_government;Indonesia;Indonesia;Indonesia;;;;;;;;;;;x;
 IDA_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
 IDA_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
 IDA_presidential_dictatorship;Islamic Indonesian Islands League;Islamic Indonesian Islands League;Islamic Indonesian Islands League;;;;;;;;;;;x;
 IDA_proletarian_dictatorship;Peoples Republic of Indonesia;Peoples Republic of Indonesia;Peoples Republic of Indonesia;;;;;;;;;;;x;
-IDA_prussian_constitutionalism;Empire Of Indonesia;Empire Of Indonesia;Empire Of Indonesia;;;;;;;;;;;x;
+IDA_prussian_constitutionalism;Indonesia;Indonesia;Indonesia;;;;;;;;;;;x;
 IDA_reactionary_77;Nationalists;Nationalists;Nationalists;;;;;;;;;;;x;
 IDA_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
 IDA_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
@@ -797,16 +797,16 @@ MAY_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;
 MAY_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x
 MAY_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x
 MAY;Malaysia ;Malaysia ;Malaysia ;;;;;;;;;;;x
-MOC_absolute_monarchy;Kingdom of Monaco;Kingdom of Monaco;Kingdom of Monaco;;;;;;;;;;;x;
+MOC_absolute_monarchy;Monaco;Monaco;Monaco;;;;;;;;;;;x;
 MOC_ADJ;Monacan;Monacan;Monacan;;;;;;;;;;;x;
 MOC_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
 MOC_bourgeois_dictatorship;Republic of Monaco;Republic of Monaco;Republic of Monaco;;;;;;;;;;;x;
 MOC_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
 MOC_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
-MOC_democracy;Republic of Monaco;Republic of Monaco;Republic of Monaco;;;;;;;;;;;x;
+MOC_democracy;Monaco;Monaco;Monaco;;;;;;;;;;;x;
 MOC_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
 MOC_fascist_dictatorship;Monacan State;Monacan State;Monacan State;;;;;;;;;;;x;
-MOC_hms_government;Kingdom of Monaco;Kingdom of Monaco;Kingdom of Monaco;;;;;;;;;;;x;
+MOC_hms_government;Monaco;Monaco;Monaco;;;;;;;;;;;x;
 MOC_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
 MOC_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
 MOC_presidential_dictatorship;Republic of Monaco;Republic of Monaco;Republic of Monaco;;;;;;;;;;;x;
@@ -879,7 +879,7 @@ NER_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;
 NER_bourgeois_dictatorship;New Rome;New Rome;New Rome;;;;;;;;;;;x;
 NER_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
 NER_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
-NER_democracy;Commune of New Rome;Commune of New Rome;Commune of New Rome;;;;;;;;;;;x;
+NER_democracy;New Rome;New Rome;New Rome;;;;;;;;;;;x;
 NER_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
 NER_fascist_dictatorship;New Rome;New Rome;New Rome;;;;;;;;;;;x;
 NER_hms_government;New Rome;New Rome;New Rome;;;;;;;;;;;x;
@@ -898,10 +898,10 @@ NGE_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;
 NGE_bourgeois_dictatorship;Republic of North Germany;Republic of North Germany;Republic of North Germany;;;;;;;;;;;x
 NGE_communist_86;Communists;Communists;Communists;;;;;;;;;;;x
 NGE_conservative_82;CDU;CDU;CDU;;;;;;;;;;;x
-NGE_democracy;Republic of North Germany;Republic of North Germany;Republic of North Germany;;;;;;;;;;;x
+NGE_democracy;North Germany;North Germany;North Germany;;;;;;;;;;;x
 NGE_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x
-NGE_fascist_dictatorship;Republic of North Germany;Republic of North Germany;Republic of North Germany;;;;;;;;;;;x
-NGE_hms_government;Kingdom of North Germany;Kingdom of North Germany;Kingdom of North Germany;;;;;;;;;;;x
+NGE_fascist_dictatorship;North Germany;North Germany;North Germany;;;;;;;;;;;x
+NGE_hms_government;North Germany;North Germany;North Germany;;;;;;;;;;;x
 NGE_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x
 NGE_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x
 NGE_presidential_dictatorship;Republic of North Germany;Republic of North Germany;Republic of North Germany;;;;;;;;;;;x
@@ -993,15 +993,15 @@ PAG_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;
 PAG_bourgeois_dictatorship;Republic of Papua New Guinea;Republic of Papua New Guinea;Republic of Papua New Guinea;;;;;;;;;;;x
 PAG_communist_86;Communists;Communists;Communists;;;;;;;;;;;x
 PAG_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x
-PAG_democracy;Republic of Papua New Guinea;Republic of Papua New Guinea;Republic of Papua New Guinea;;;;;;;;;;;x
+PAG_democracy;Papua New Guinea;New Guinea;Papua New Guinea;;;;;;;;;;;x
 PAG_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x
 PAG_fascist_dictatorship;State of Papua New Guinea;State of Papua New Guinea;State of Papua New Guinea;;;;;;;;;;;x
-PAG_hms_government;Kingdom of Papua;Kingdom of Papua;Kingdom of Papua;;;;;;;;;;;x
+PAG_hms_government;Papua New Guinea;Papua New Guinea;Papua New Guinea;;;;;;;;;;;x
 PAG_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x
 PAG_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x
 PAG_presidential_dictatorship;Republic of Papua New Guinea;Republic of Papua New Guinea;Republic of Papua New Guinea;;;;;;;;;;;x
 PAG_proletarian_dictatorship;Peoples Republic of Papua;Peoples Republic of Papua;Peoples Republic of Papua;;;;;;;;;;;x
-PAG_prussian_constitutionalism;Kingdom of Papua;Kingdom of Papua;Kingdom of Papua;;;;;;;;;;;x
+PAG_prussian_constitutionalism;Papua New Guinea;Papua New Guinea;Papua New Guinea;;;;;;;;;;;x
 PAG_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x
 PAG_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x
 PAG_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x
@@ -1297,7 +1297,7 @@ TAI_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;
 TAI_bourgeois_dictatorship;Taiwanese Republic of China ;Taiwanese Republic of China ;Taiwanese Republic of China ;;;;;;;;;;;x;
 TAI_communist_98;Taiwan's Peoples Party;Taiwan's Peoples Party;Taiwan's Peoples Party;;;;;;;;;;;x;
 TAI_conservative_89;Kuomintang;Kuomintang;Kuomintang;;;;;;;;;;;x;
-TAI_democracy;Taiwanese Republic of China ;Taiwanese Republic of China ;Taiwanese Republic of China ;;;;;;;;;;;x;
+TAI_democracy;Republic of Taiwan;Republic of Taiwan;Republic of Taiwan;;;;;;;;;;;x;
 TAI_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
 TAI_fascist_dictatorship;State of Taiwan;State of Taiwan;State of Taiwan;;;;;;;;;;;x;
 TAI_hms_government;Taiwanese Kingdom ;Taiwanese Kingdom ;Taiwanese Kingdom ;;;;;;;;;;;x;
@@ -1329,21 +1329,21 @@ TAQ_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;
 TAQ_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
 TAQ_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
 TAQ;Tamahaq;Tamahaq;Tamahaq;;;;;;;;;;;x;
-TIM_absolute_monarchy;Kingdom of Timor;Kingdom of Timor;Kingdom of Timor;;;;;;;;;;;x;
+TIM_absolute_monarchy;East Timor;East Timor;East Timor;;;;;;;;;;;x;
 TIM_ADJ;East Timorese;East Timorese;East Timorese;;;;;;;;;;;x;
 TIM_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
-TIM_bourgeois_dictatorship;Republic of Timor-Leste;Republic of Timor-Leste;Republic of Timor-Leste;;;;;;;;;;;x;
+TIM_bourgeois_dictatorship;Republic of East Timor;Republic of East Timor;Republic of East Timor;;;;;;;;;;;x;
 TIM_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
 TIM_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
-TIM_democracy;Democratic Republic of Timor-Leste;Democratic Republic of Timor-Leste;Democratic Republic of Timor-Leste;;;;;;;;;;;x;
+TIM_democracy;East Timor;East Timor;East Timor;;;;;;;;;;;x;
 TIM_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
-TIM_fascist_dictatorship;State of East Timor-Leste;State of East Timor-Leste;State of East Timor-Leste;;;;;;;;;;;x;
-TIM_hms_government;Kingdom of Timor;Kingdom of Timor;Kingdom of Timor;;;;;;;;;;;x;
+TIM_fascist_dictatorship;State of East Timor;State of East Timor;State of East Timor;;;;;;;;;;;x;
+TIM_hms_government;East Timor;East Timor;East Timor;;;;;;;;;;;x;
 TIM_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
 TIM_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
-TIM_presidential_dictatorship;Republic of Timor-Leste;Republic of Timor-Leste;Republic of Timor-Leste;;;;;;;;;;;x;
-TIM_proletarian_dictatorship;Democratic Republic of Timor-Leste;Democratic Republic of Timor-Leste;Democratic Republic of Timor-Leste;;;;;;;;;;;x;
-TIM_prussian_constitutionalism;Kingdom of Timor;Kingdom of Timor;Kingdom of Timor;;;;;;;;;;;x;
+TIM_presidential_dictatorship;Republic of East Timor;Republic of East Timor;Republic of East Timor;;;;;;;;;;;x;
+TIM_proletarian_dictatorship;Timor-Leste;Timor-Leste;Timor-Leste;;;;;;;;;;;x;
+TIM_prussian_constitutionalism;East Timor;East Timor;East Timor;;;;;;;;;;;x;
 TIM_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
 TIM_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
 TIM_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
