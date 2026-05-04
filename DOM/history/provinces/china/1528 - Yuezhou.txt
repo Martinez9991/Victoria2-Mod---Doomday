@@ -1,5 +1,7 @@
-
-
+owner = HUZ
+controller = HUZ
+add_core = HUZ
+add_core = CHI
 trade_goods = iron
 life_rating = 32
 

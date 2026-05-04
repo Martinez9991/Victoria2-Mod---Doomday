@@ -1,4 +1,6 @@
-
+owner = HUZ
+controller = HUZ
+add_core = HUZ
 add_core = CHI
 trade_goods = grain
 life_rating = 32

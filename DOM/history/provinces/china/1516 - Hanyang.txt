@@ -1,5 +1,6 @@
-
-
-
+owner = HUZ
+controller = HUZ
+add_core = HUZ
+add_core = CHI
 trade_goods = tea
 life_rating = 32

@@ -1,6 +1,7 @@
-
-
-
+owner = PRC
+controller = PRC
+add_core = PRC
+add_core = CHI
 trade_goods = silk
 life_rating = 32
 1861.1.1 = {

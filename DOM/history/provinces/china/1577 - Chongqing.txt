@@ -1,4 +1,6 @@
-
+owner = PRC
+controller = PRC
+add_core = PRC
 add_core = CHI
 trade_goods = tea
 life_rating = 32
