@@ -1,5 +1,6 @@
-
-
-
+owner = KLM
+controller = KLM
+add_core = KLM
+add_core = RUS
 trade_goods = wool
 life_rating = 35

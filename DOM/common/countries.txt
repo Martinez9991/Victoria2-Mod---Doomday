@@ -132,6 +132,9 @@ SOV             = "countries/Soviet Union.txt"
 VOY             = "countries/Volhynia.txt"
 CZH		= "countries/Czechoslovakia.txt"
 WPL             = "countries/West Poland.txt"
+DON     = "countries/Don.txt"
+KUB     = "countries/Kuban.txt"
+KLM     = "countries/Kalmykia.txt"
 
 # Balkans
 ALB		="countries/Albania.txt"
@@ -207,6 +210,9 @@ PER		="countries/Persia.txt"
 SAU             ="countries/Saudi Arabia.txt"
 TRB             ="countries/Trabzon.txt"
 YEM		="countries/Yemen.txt"
+OSS     ="countries/Ossetia.txt"
+DAG     ="countries/Dagestan.txt"
+CHN     ="countries/Chechnya.txt"
 
 
 # India
