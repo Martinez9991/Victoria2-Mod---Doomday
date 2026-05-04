@@ -1,5 +1,6 @@
-
-
-
+owner = OSS
+controller = OSS
+add_core = OSS
+add_core = RUS
 trade_goods = wool
 life_rating = 35

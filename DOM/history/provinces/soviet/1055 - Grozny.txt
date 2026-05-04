@@ -1,5 +1,6 @@
-
-
-
+owner = CHN
+controller = CHN
+add_core = CHN
+add_core = RUS
 trade_goods = wool
 life_rating = 35
