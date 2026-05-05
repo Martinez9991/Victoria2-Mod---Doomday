@@ -87,7 +87,7 @@ war_policy = pro_military
 }
 party = {
 name = "PRC_communist_75"
-start_date = 1850.1.1
+start_date = 1800.1.1
 end_date = 2000.1.1
 ideology = communist
 economic_policy = planned_economy
