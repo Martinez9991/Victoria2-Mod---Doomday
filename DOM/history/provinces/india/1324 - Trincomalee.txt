@@ -1,6 +1,6 @@
-owner = HND
-controller = HND
-add_core = HND
+owner = SLK
+controller = SLK
+add_core = SLK
 trade_goods = tea
 life_rating = 32
 1861.1.1 = { 

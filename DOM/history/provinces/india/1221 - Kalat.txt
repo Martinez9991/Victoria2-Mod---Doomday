@@ -1,6 +1,5 @@
-owner = HND
-controller = HND
-add_core = KAL
-add_core = HND
+owner = PAK
+controller = PAK
+add_core = PAK
 trade_goods = wool
 life_rating = 32

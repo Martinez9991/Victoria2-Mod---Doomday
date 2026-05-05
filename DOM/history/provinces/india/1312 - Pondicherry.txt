@@ -1,6 +1,5 @@
-owner = HND
-controller = HND
-add_core = HYD
-add_core = HND
+owner = TAM
+controller = TAM
+add_core = TAM
 trade_goods = grain
 life_rating = 32
