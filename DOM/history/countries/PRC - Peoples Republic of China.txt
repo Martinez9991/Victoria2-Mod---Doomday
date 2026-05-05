@@ -17,6 +17,7 @@ oob = "PRC.txt"
 
 #========================= H O U S E - O F - L O R D S =========================
 
+ruling_party = PRC_communist_75
 upper_house = {
 fascist = 0
 reactionary = 0
@@ -378,7 +379,7 @@ friedrich_engels = no
 eduard_bernstein = no
 sidney_webb = no
 karl_kautsky = no
-jean_jaurès = no
+jean_jaurï¿½s = no
 friedrich_list = no
 wilhelm_roscher = no
 bruno_hildebrand = no
@@ -386,8 +387,8 @@ karl_knies = no
 gustav_von_schmoller = no
 adolph_wagner = no
 william_cunningham = no
-johann_heinrich_von_thünen = no
-léon_walras = no
+johann_heinrich_von_thï¿½nen = no
+lï¿½on_walras = no
 stanley_jevons = no
 carl_menger = no
 thorstein_veblen = no
@@ -398,7 +399,7 @@ vilfredo_pareto = no
 knut_wicksell = no
 irving_fischer = no
 joseph_schumpeter = no
-eugen_von_böhm_bawerk = no
+eugen_von_bï¿½hm_bawerk = no
 john_maynard_keynes = no
 richard_kahn = no
 ludwig_von_mises = no
