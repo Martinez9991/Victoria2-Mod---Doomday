@@ -1,6 +1,7 @@
 owner = SOV
 controller = SOV
 add_core = SOV
+add_core = KAZ
 trade_goods = coal
 life_rating = 25
 1861.1.1 = {

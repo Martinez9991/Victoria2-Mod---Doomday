@@ -1,5 +1,6 @@
-
-
-
+owner = ARL
+controller = ARL
+add_core = ARL
+add_core = KAZ
 trade_goods = wool
 life_rating = 35

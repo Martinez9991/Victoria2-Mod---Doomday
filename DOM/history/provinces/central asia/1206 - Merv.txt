@@ -1,5 +1,5 @@
-
-
-
+owner = MLA
+controller = MLA
+add_core = MLA
 trade_goods = cotton
 life_rating = 35

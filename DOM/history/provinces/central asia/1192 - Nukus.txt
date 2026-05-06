@@ -1,5 +1,5 @@
-
-
-
+owner = ARL
+controller = ARL
+add_core = ARL
 trade_goods = opium
 life_rating = 35
