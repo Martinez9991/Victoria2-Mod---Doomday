@@ -1,3 +1,6 @@
+owner = NTA
+controller = NTA
+add_core = NTA
 add_core = CAN
 trade_goods = fish
 life_rating = 20

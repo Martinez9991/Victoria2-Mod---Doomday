@@ -1,3 +1,6 @@
+owner = ASS
+controller = ASS
+add_core = ASS
 add_core = CAN
 add_core = MTC
 trade_goods = cattle
