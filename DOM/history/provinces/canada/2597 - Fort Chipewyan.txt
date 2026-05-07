@@ -1,3 +1,6 @@
+owner = ATH
+controller = ATH
+add_core = ATH
 add_core = CAN
 trade_goods = timber
 life_rating = 30

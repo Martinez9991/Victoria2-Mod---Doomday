@@ -1,6 +1,6 @@
-owner = VIC
-controller = VIC
-add_core = VIC
+owner = PGG
+controller = PGG
+add_core = PGG
 add_core = CAN
 add_core = COL
 trade_goods = timber

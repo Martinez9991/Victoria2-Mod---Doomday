@@ -1,3 +1,6 @@
+owner = CNP
+controller = CNP
+add_core = CNP
 add_core = CAN
 add_core = MTC
 trade_goods = timber
