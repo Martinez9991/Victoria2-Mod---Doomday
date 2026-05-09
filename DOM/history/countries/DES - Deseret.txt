@@ -1,4 +1,4 @@
-capital = 97
+capital = 98
 primary_culture = yankee
 culture = dixie
 religion = protestant

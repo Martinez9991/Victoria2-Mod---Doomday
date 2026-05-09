@@ -1,4 +1,4 @@
-capital = 84 # Sonoma
+capital = 86 # Sonoma
 primary_culture = yankee
 culture = dixie
 religion = protestant
