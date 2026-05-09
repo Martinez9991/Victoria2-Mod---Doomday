@@ -1,4 +1,4 @@
-capital = 57
+capital = 74
 primary_culture = anglo_canadian
 #culture = british
 culture = french_canadian
