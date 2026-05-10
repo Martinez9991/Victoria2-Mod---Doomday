@@ -1,8 +1,9 @@
 
 
-
+
+
 trade_goods = grain
-life_rating = 35
+life_rating = 5
 fort = 1
 naval_base = 1
 #state_building = {
