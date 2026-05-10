@@ -1,6 +1,4 @@
-
-
-
+add_core = SUP
 trade_goods = timber
 life_rating = 35
 colony = 2

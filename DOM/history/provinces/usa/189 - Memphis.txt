@@ -1,6 +1,7 @@
-
-
-
+owner = KEN
+controller = KEN
+add_core = KEN
+add_core = TEN
 trade_goods = cotton
 life_rating = 35
 1861.1.1 = {

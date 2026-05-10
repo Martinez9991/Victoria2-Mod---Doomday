@@ -1,6 +1,7 @@
-
-
-
+owner = NEO
+controller = NEO
+add_core = NEO
+add_core = SGA
 trade_goods = cotton
 life_rating = 35
 1861.1.1 = {
