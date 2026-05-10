@@ -2,4 +2,4 @@
 add_core = FRI
 add_core = NET
 trade_goods = fish
-life_rating = 10
+life_rating = 5
