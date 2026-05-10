@@ -1,6 +1,7 @@
-
-
-
+owner = DEL
+controller = DEL
+add_core = DEL
+add_core = VIR
 trade_goods = tobacco
 life_rating = 35
 1861.1.1 = {

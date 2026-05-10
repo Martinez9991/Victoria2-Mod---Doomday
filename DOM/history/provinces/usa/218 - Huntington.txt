@@ -1,6 +1,6 @@
-
-
-
+owner = VIR
+controller = VIR
+add_core = VIR
 trade_goods = coal
 life_rating = 35
 party_loyalty = {

@@ -1,4 +1,6 @@
-
+owner = ARO
+controller = ARO
+add_core = ARO
 add_core = NEN
 trade_goods = timber
 life_rating = 35

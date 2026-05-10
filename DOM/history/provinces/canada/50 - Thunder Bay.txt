@@ -1,5 +1,6 @@
-owner = CAN
-controller = CAN
+owner = SUP
+controller = SUP
+add_core = SUP
 add_core = CAN
 trade_goods = cattle
 life_rating = 35

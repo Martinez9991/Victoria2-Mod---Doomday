@@ -1,9 +1,9 @@
-
-
-
+owner = SUP
+controller = SUP
+add_core = SUP
+add_core = WIS
 trade_goods = grain
 life_rating = 35
-colony = 2
 1861.1.1 = {
 	colony = 0
 	}
