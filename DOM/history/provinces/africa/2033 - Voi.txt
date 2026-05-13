@@ -1,3 +1,6 @@
+owner = KEY
+controller = KEY
+add_core = KEY
 trade_goods = grain
 life_rating = 15
 1861.1.1 = {

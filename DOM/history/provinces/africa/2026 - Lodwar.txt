@@ -1,2 +1,5 @@
+owner = KEY
+controller = KEY
+add_core = KEY
 trade_goods = tea
 life_rating = 15

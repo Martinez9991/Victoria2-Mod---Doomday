@@ -1,4 +1,6 @@
-
+owner = KEY
+controller = KEY
+add_core = KEY
 trade_goods = fish
 life_rating = 35
 1861.1.1 = {

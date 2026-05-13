@@ -1,2 +1,5 @@
+owner = UGA
+controller = UGA
+add_core = UGA
 trade_goods = cotton
 life_rating = 15

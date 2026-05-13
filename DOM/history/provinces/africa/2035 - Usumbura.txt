@@ -1,2 +1,5 @@
+owner = BUD
+controller = BUD
+add_core = BUD
 trade_goods = cotton
 life_rating = 15

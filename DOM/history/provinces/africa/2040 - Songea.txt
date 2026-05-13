@@ -1,2 +1,5 @@
+owner = TAN
+controller = TAN
+add_core = TAN
 trade_goods = grain
 life_rating = 15
