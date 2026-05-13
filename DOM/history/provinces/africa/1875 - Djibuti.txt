@@ -1,2 +1,5 @@
+owner = DJI
+controller = DJI
+add_core = DJI
 trade_goods = cattle
 life_rating = 15
