@@ -1,2 +1,6 @@
+owner = BOT
+controller = BOT
+add_core = BOT
+add_core = NAM
 trade_goods = grain
 life_rating = 15

@@ -1,3 +1,5 @@
-
+owner = MAW
+controller = MAW
+add_core = MAW
 trade_goods = tobacco
 life_rating = 15
