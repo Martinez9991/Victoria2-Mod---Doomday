@@ -1,2 +1,5 @@
+owner = MAW
+controller = MAW
+add_core = MAW
 trade_goods = cattle
 life_rating = 15

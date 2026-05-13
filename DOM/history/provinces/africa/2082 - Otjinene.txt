@@ -1,2 +1,5 @@
+owner = NAM
+controller = NAM
+add_core = NAM
 trade_goods = grain
 life_rating = 10

@@ -1100,6 +1100,25 @@ LEO_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;
 LEO_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x
 LEO_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x
 LEO;Castille and Leon;Castille and Leon;Castille and Leon;;;;;;;;;;;x
+LES_absolute_monarchy;Lesotho;Lesotho;Lesotho;;;;;;;;;;;x;
+LES_ADJ;Basotho;Basotho;Basotho;;;;;;;;;;;x;
+LES_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+LES_bourgeois_dictatorship;Lesotho;Lesotho;Lesotho;;;;;;;;;;;x;
+LES_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+LES_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+LES_democracy;Lesotho;Lesotho;Lesotho;;;;;;;;;;;x;
+LES_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+LES_fascist_dictatorship;Lesotho;Lesotho;Lesotho;;;;;;;;;;;x;
+LES_hms_government;Lesotho;Lesotho;Lesotho;;;;;;;;;;;x;
+LES_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+LES_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+LES_presidential_dictatorship;Lesotho;Lesotho;Lesotho;;;;;;;;;;;x;
+LES_proletarian_dictatorship;Lesotho;Lesotho;Lesotho;;;;;;;;;;;x;
+LES_prussian_constitutionalism;Lesotho;Lesotho;Lesotho;;;;;;;;;;;x;
+LES_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+LES_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+LES_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+LES;Lesotho;Lesotho;Lesotho;;;;;;;;;;;x;
 LIL_absolute_monarchy;Lille;Lille;Lille;;;;;;;;;;;x;
 LIL_ADJ;Lillean;Lillean;Lillean;;;;;;;;;;;x;
 LIL_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
@@ -1215,6 +1234,25 @@ MAU_reactionary_78;Nationalists ;Nationalists ;Nationalists ;;;;;;;;;;;x
 MAU_socialist_94;Workers' Party;Workers' Party;Workers' Party;;;;;;;;;;;x
 MAU_socialist_98;Hong Kong Socialist Party ;Hong Kong Socialist Party ;Hong Kong Socialist Party ;;;;;;;;;;;x
 MAU;Macau;Macau;Macau;;;;;;;;;;;x
+MAW_absolute_monarchy;Malawi;Malawi;Malawi;;;;;;;;;;;x;
+MAW_ADJ;Malawian;Malawian;Malawian;;;;;;;;;;;x;
+MAW_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+MAW_bourgeois_dictatorship;Malawi;Malawi;Malawi;;;;;;;;;;;x;
+MAW_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+MAW_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+MAW_democracy;Malawi;Malawi;Malawi;;;;;;;;;;;x;
+MAW_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+MAW_fascist_dictatorship;Malawi;Malawi;Malawi;;;;;;;;;;;x;
+MAW_hms_government;Malawi;Malawi;Malawi;;;;;;;;;;;x;
+MAW_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+MAW_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+MAW_presidential_dictatorship;Malawi;Malawi;Malawi;;;;;;;;;;;x;
+MAW_proletarian_dictatorship;Malawi;Malawi;Malawi;;;;;;;;;;;x;
+MAW_prussian_constitutionalism;Malawi;Malawi;Malawi;;;;;;;;;;;x;
+MAW_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+MAW_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+MAW_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+MAW;Malawi;Malawi;Malawi;;;;;;;;;;;x;
 MAY_absolute_monarchy;Malaysia ;Malaysia ;Malaysia ;;;;;;;;;;;x
 MAY_ADJ;Malay;Malay;Malay;;;;;;;;;;;x
 MAY_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x
@@ -1329,6 +1367,25 @@ MSS_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;
 MSS_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
 MSS_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
 MSS;Mississippi;Mississippi;Mississippi;;;;;;;;;;;x;
+NAM_absolute_monarchy;Namibia;Namibia;Namibia;;;;;;;;;;;x;
+NAM_ADJ;Namibian;Namibian;Namibian;;;;;;;;;;;x;
+NAM_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+NAM_bourgeois_dictatorship;Namibia;Namibia;Namibia;;;;;;;;;;;x;
+NAM_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+NAM_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+NAM_democracy;Namibia;Namibia;Namibia;;;;;;;;;;;x;
+NAM_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+NAM_fascist_dictatorship;Namibia;Namibia;Namibia;;;;;;;;;;;x;
+NAM_hms_government;Namibia;Namibia;Namibia;;;;;;;;;;;x;
+NAM_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+NAM_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+NAM_presidential_dictatorship;Namibia;Namibia;Namibia;;;;;;;;;;;x;
+NAM_proletarian_dictatorship;Namibia;Namibia;Namibia;;;;;;;;;;;x;
+NAM_prussian_constitutionalism;Namibia;Namibia;Namibia;;;;;;;;;;;x;
+NAM_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+NAM_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+NAM_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+NAM;Namibia;Namibia;Namibia;;;;;;;;;;;x;
 NAT_absolute_monarchy;Netherlands Antilles;Netherlands Antilles;Netherlands Antilles;;;;;;;;;;;x;
 NAT_ADJ;Dutch;Dutch;Dutch;;;;;;;;;;;x;
 NAT_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
