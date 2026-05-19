@@ -1,2 +1,5 @@
+owner = ISI
+controller = ISI
+add_core = ISI
 trade_goods = fruit
 life_rating = 15
