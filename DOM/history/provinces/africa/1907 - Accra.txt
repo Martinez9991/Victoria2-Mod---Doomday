@@ -1,6 +1,6 @@
-
-colonial = 2
-
+owner = GHA
+controller = GHA
+add_core = GHA
 trade_goods = cattle
 life_rating = 15
 1861.1.1 = {

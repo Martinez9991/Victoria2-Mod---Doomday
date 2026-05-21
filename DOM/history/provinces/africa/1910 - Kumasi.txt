@@ -1,2 +1,5 @@
+owner = GHA
+controller = GHA
+add_core = GHA
 trade_goods = coffee
 life_rating = 15

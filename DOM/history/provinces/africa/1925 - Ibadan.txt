@@ -1,2 +1,5 @@
+owner = NIG
+controller = NIG
+add_core = NIG
 trade_goods = coffee
 life_rating = 15

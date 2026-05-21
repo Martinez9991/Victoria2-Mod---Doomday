@@ -1,2 +1,5 @@
+owner = UPV
+controller = UPV
+add_core = UPV
 trade_goods = grain
 life_rating = 15
