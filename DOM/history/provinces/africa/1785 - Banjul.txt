@@ -1,5 +1,5 @@
-
-
+owner = GAM
+controller = GAM
+add_core = GAM
 trade_goods = fruit
 life_rating = 30
-colonial = 2

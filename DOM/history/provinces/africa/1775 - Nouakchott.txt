@@ -1,2 +1,5 @@
+owner = NOU
+controller = NOU
+add_core = NOU
 trade_goods = fish
 life_rating = 15
