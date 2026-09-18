@@ -1,10 +1,15 @@
 political_decisions = {
 	greater_portugal = {
-		picture = greater_portugal
+		#picture = greater_portugal
 		potential = {
-			tag = POR
+			OR = {
+				tag = POR
+			}
 			owns = 474
 			owns = 476
+			NOT = {
+				has_global_flag = portugal_has_annexed_galicia
+			}
 		}
 		allow = {
 			prestige = 10
@@ -20,11 +25,11 @@ political_decisions = {
 			}
 			any_pop = {				
 				limit = { culture = spanish }	
-				militancy = 2			
-				consciousness = 1.5		
+				militancy = 3			
+				consciousness = 2		
 			}
-			prestige = 5
-			set_global_flag = portugal_has_annexed_galiza
+			prestige = 15
+			set_global_flag = portugal_has_annexed_galicia
 		}
 		ai_will_do = {
 			factor = 1
